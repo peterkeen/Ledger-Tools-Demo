@@ -1,0 +1,10 @@
+[
+    {
+        "payee": "Kettleman Bagels",
+        "dow": 3,
+        "postings": [
+            ["Expenses:Food:Breakfast", [7.20, 7.80]],
+            ["Assets:Checking"]
+        ]
+    }
+]

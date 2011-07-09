@@ -1,0 +1,160 @@
+[
+    {
+        "payee": "Opening Balances",
+        "once": true,
+        "postings": [
+            ["Liabilities:Loans:Student", -25300],
+            ["Liabilities:Loans:Car", -19500],
+            ["Assets:Checking", 1550],
+            ["Equity:Opening Balances"]
+        ]
+    },
+    {
+        "payee": "Kettleman Bagels",
+        "dow": 3,
+        "postings": [
+            ["Expenses:Food:Breakfast", [7.20, 7.80]],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": ["Safeway", "New Seasons", "Fred Meyer"],
+        "dow": 1,
+        "postings": [
+            ["Expenses:Food:Groceries", [22.50, 120.00, 45]],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": ["Taco Del Mar", "Mio Sushi", "Panda Express", "Sizzle Pie", "Food Carts"],
+        "dow": [0,1,2,3,4],
+        "probability": 0.6,
+        "postings": [
+            ["Expenses:Food:Lunch", [5, 20.00, 6]],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": "Pacific Power",
+        "day": 16,
+        "postings": [
+            ["Expenses:Utils:Electric", [50.50, 60.50]],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": "NW Natural",
+        "day": 18,
+        "postings": [
+            ["Expenses:Utils:Gas", [50.50, 60.50]],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": "Netflix",
+        "day": 8,
+        "postings": [
+            ["Expenses:Entertainment", 9.99],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": "Progressive",
+        "day": 13,
+        "postings": [
+            ["Expenses:Insurance:Car", 94],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": "Car Payment",
+        "day": 8,
+        "postings": [
+            ["Liabilities:Loans:Car", [350,360]],
+            ["Expenses:Interest:Car", [100,120]],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": "Student Loan Payment",
+        "day": 8,
+        "postings": [
+            ["Liabilities:Loans:Student", [180,200]],
+            ["Expenses:Interest:Student", [10,15]],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": "Rent",
+        "day": 26,
+        "postings": [
+            ["Expenses:Rent", 800],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": ["Pambiche", "Papa Hayden", "Tastebud", "Mio Sushi", "Mike's Drive In", "Old Town Pizza", "Apizza Scholls", "Tanuki", "McMennemin's"],
+        "dow": [4,5],
+        "probability": 0.2,
+        "postings": [
+            ["Expenses:Food:Dinner", [15,80,20]],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": ["Pizza Hut", "Papa John's", "Eddie's Flat Iron Pizza"],
+        "dow": [3,6],
+        "probability": 0.1,
+        "postings": [
+            ["Expenses:Food:Dinner", [20,25]],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": "Salary",
+        "day": [7, 22],
+        "start": "2008/01/01",
+        "end": "2008/11/17",
+        "postings": [
+            ["Income:Salary", -2220],
+            ["Assets:401K", 110.0],
+            ["Assets:Savings", 110.0],
+            ["Expenses:Taxes:State", 215.0],
+            ["Expenses:Taxes:Federal", 510.0],
+            ["Expenses:Taxes:Social Security", 136.0],
+            ["Expenses:Insurance:Medical", 55.0],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": "Salary",
+        "day": [7, 22],
+        "start": "2008/11/17",
+        "end": "2010/12/05",
+        "postings": [
+            ["Income:Salary", -2708.33],
+            ["Assets:401K", 135.0],
+            ["Assets:Savings", 135.0],
+            ["Expenses:Taxes:State", 262.25],
+            ["Expenses:Taxes:Federal", 520.1],
+            ["Expenses:Taxes:Social Security", 165.89],
+            ["Expenses:Insurance:Medical", 55.0],
+            ["Assets:Checking"]
+        ]
+    },
+    {
+        "payee": "Salary",
+        "day": [1, 15],
+        "start": "2010/12/05",
+        "postings": [
+            ["Income:Salary", -3125],
+            ["Assets:401K", 156.0],
+            ["Assets:Savings", 156.0],
+            ["Expenses:Taxes:State", 302.64],
+            ["Expenses:Taxes:Federal", 550],
+            ["Expenses:Taxes:Social Security", 191.44],
+            ["Expenses:Insurance:Medical", 55.0],
+            ["Assets:Checking", 1713.92]
+        ]
+    }
+]

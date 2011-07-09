@@ -1,0 +1,6233 @@
+2008/01/01 * Opening Balances
+    Liabilities:Loans:Student             $-25300.00
+    Liabilities:Loans:Car                 $-19500.00
+    Assets:Checking                         $1550.00
+    Equity:Opening Balances
+
+2008/01/01 * New Seasons
+    Expenses:Food:Groceries                  $111.36
+    Assets:Checking
+
+2008/01/03 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.53
+    Assets:Checking
+
+2008/01/05 * Old Town Pizza
+    Expenses:Food:Dinner                      $41.50
+    Assets:Checking
+
+2008/01/07 * Food Carts
+    Expenses:Food:Lunch                        $8.32
+    Assets:Checking
+
+2008/01/07 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/01/08 * New Seasons
+    Expenses:Food:Groceries                   $62.80
+    Assets:Checking
+
+2008/01/08 * Taco Del Mar
+    Expenses:Food:Lunch                       $11.78
+    Assets:Checking
+
+2008/01/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2008/01/08 * Car Payment
+    Liabilities:Loans:Car                    $353.06
+    Expenses:Interest:Car                    $106.26
+    Assets:Checking
+
+2008/01/08 * Student Loan Payment
+    Liabilities:Loans:Student                $199.38
+    Expenses:Interest:Student                 $12.24
+    Assets:Checking
+
+2008/01/10 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.36
+    Assets:Checking
+
+2008/01/10 * Panda Express
+    Expenses:Food:Lunch                       $19.74
+    Assets:Checking
+
+2008/01/11 * Panda Express
+    Expenses:Food:Lunch                       $16.70
+    Assets:Checking
+
+2008/01/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2008/01/14 * Taco Del Mar
+    Expenses:Food:Lunch                       $11.94
+    Assets:Checking
+
+2008/01/15 * Safeway
+    Expenses:Food:Groceries                   $72.76
+    Assets:Checking
+
+2008/01/15 * Mio Sushi
+    Expenses:Food:Lunch                       $10.91
+    Assets:Checking
+
+2008/01/16 * Panda Express
+    Expenses:Food:Lunch                       $11.36
+    Assets:Checking
+
+2008/01/16 * Pacific Power
+    Expenses:Utils:Electric                   $53.08
+    Assets:Checking
+
+2008/01/17 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.49
+    Assets:Checking
+
+2008/01/18 * Food Carts
+    Expenses:Food:Lunch                        $9.79
+    Assets:Checking
+
+2008/01/18 * NW Natural
+    Expenses:Utils:Gas                        $56.70
+    Assets:Checking
+
+2008/01/21 * Sizzle Pie
+    Expenses:Food:Lunch                       $12.54
+    Assets:Checking
+
+2008/01/22 * Fred Meyer
+    Expenses:Food:Groceries                   $67.83
+    Assets:Checking
+
+2008/01/22 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/01/24 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.43
+    Assets:Checking
+
+2008/01/24 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.72
+    Assets:Checking
+
+2008/01/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2008/01/26 * McMennemin's
+    Expenses:Food:Dinner                      $30.56
+    Assets:Checking
+
+2008/01/29 * Safeway
+    Expenses:Food:Groceries                   $63.79
+    Assets:Checking
+
+2008/01/30 * Panda Express
+    Expenses:Food:Lunch                        $6.48
+    Assets:Checking
+
+2008/01/31 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.69
+    Assets:Checking
+
+2008/02/01 * Mio Sushi
+    Expenses:Food:Lunch                        $7.82
+    Assets:Checking
+
+2008/02/02 * Papa Hayden
+    Expenses:Food:Dinner                      $43.74
+    Assets:Checking
+
+2008/02/04 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.36
+    Assets:Checking
+
+2008/02/05 * Fred Meyer
+    Expenses:Food:Groceries                   $45.32
+    Assets:Checking
+
+2008/02/05 * Taco Del Mar
+    Expenses:Food:Lunch                        $5.86
+    Assets:Checking
+
+2008/02/06 * Food Carts
+    Expenses:Food:Lunch                       $13.37
+    Assets:Checking
+
+2008/02/07 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.43
+    Assets:Checking
+
+2008/02/07 * Food Carts
+    Expenses:Food:Lunch                        $7.41
+    Assets:Checking
+
+2008/02/07 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/02/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2008/02/08 * Car Payment
+    Liabilities:Loans:Car                    $356.21
+    Expenses:Interest:Car                    $113.63
+    Assets:Checking
+
+2008/02/08 * Student Loan Payment
+    Liabilities:Loans:Student                $188.21
+    Expenses:Interest:Student                 $10.95
+    Assets:Checking
+
+2008/02/08 * Apizza Scholls
+    Expenses:Food:Dinner                      $49.68
+    Assets:Checking
+
+2008/02/11 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.68
+    Assets:Checking
+
+2008/02/12 * New Seasons
+    Expenses:Food:Groceries                   $80.67
+    Assets:Checking
+
+2008/02/13 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.53
+    Assets:Checking
+
+2008/02/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2008/02/14 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.43
+    Assets:Checking
+
+2008/02/14 * Panda Express
+    Expenses:Food:Lunch                        $6.87
+    Assets:Checking
+
+2008/02/15 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.54
+    Assets:Checking
+
+2008/02/16 * Pacific Power
+    Expenses:Utils:Electric                   $55.59
+    Assets:Checking
+
+2008/02/18 * Food Carts
+    Expenses:Food:Lunch                       $15.29
+    Assets:Checking
+
+2008/02/18 * NW Natural
+    Expenses:Utils:Gas                        $58.32
+    Assets:Checking
+
+2008/02/19 * Safeway
+    Expenses:Food:Groceries                   $41.73
+    Assets:Checking
+
+2008/02/20 * Panda Express
+    Expenses:Food:Lunch                        $7.01
+    Assets:Checking
+
+2008/02/21 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.40
+    Assets:Checking
+
+2008/02/22 * Food Carts
+    Expenses:Food:Lunch                        $5.94
+    Assets:Checking
+
+2008/02/22 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/02/23 * Apizza Scholls
+    Expenses:Food:Dinner                      $33.96
+    Assets:Checking
+
+2008/02/25 * Mio Sushi
+    Expenses:Food:Lunch                        $6.18
+    Assets:Checking
+
+2008/02/26 * Fred Meyer
+    Expenses:Food:Groceries                   $65.71
+    Assets:Checking
+
+2008/02/26 * Food Carts
+    Expenses:Food:Lunch                       $10.14
+    Assets:Checking
+
+2008/02/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2008/02/27 * Mio Sushi
+    Expenses:Food:Lunch                       $12.20
+    Assets:Checking
+
+2008/02/28 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.37
+    Assets:Checking
+
+2008/02/29 * Food Carts
+    Expenses:Food:Lunch                       $11.53
+    Assets:Checking
+
+2008/03/03 * Panda Express
+    Expenses:Food:Lunch                       $10.27
+    Assets:Checking
+
+2008/03/04 * New Seasons
+    Expenses:Food:Groceries                   $47.67
+    Assets:Checking
+
+2008/03/05 * Sizzle Pie
+    Expenses:Food:Lunch                       $11.60
+    Assets:Checking
+
+2008/03/06 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.46
+    Assets:Checking
+
+2008/03/06 * Sizzle Pie
+    Expenses:Food:Lunch                       $14.49
+    Assets:Checking
+
+2008/03/07 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/03/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2008/03/08 * Car Payment
+    Liabilities:Loans:Car                    $357.43
+    Expenses:Interest:Car                    $112.83
+    Assets:Checking
+
+2008/03/08 * Student Loan Payment
+    Liabilities:Loans:Student                $193.29
+    Expenses:Interest:Student                 $12.07
+    Assets:Checking
+
+2008/03/09 * Papa John's
+    Expenses:Food:Dinner                      $23.20
+    Assets:Checking
+
+2008/03/10 * Sizzle Pie
+    Expenses:Food:Lunch                       $14.59
+    Assets:Checking
+
+2008/03/11 * New Seasons
+    Expenses:Food:Groceries                   $52.41
+    Assets:Checking
+
+2008/03/11 * Food Carts
+    Expenses:Food:Lunch                        $8.01
+    Assets:Checking
+
+2008/03/13 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.44
+    Assets:Checking
+
+2008/03/13 * Panda Express
+    Expenses:Food:Lunch                       $13.79
+    Assets:Checking
+
+2008/03/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2008/03/14 * Mio Sushi
+    Expenses:Food:Lunch                       $10.68
+    Assets:Checking
+
+2008/03/16 * Pacific Power
+    Expenses:Utils:Electric                   $57.79
+    Assets:Checking
+
+2008/03/18 * New Seasons
+    Expenses:Food:Groceries                   $57.22
+    Assets:Checking
+
+2008/03/18 * Mio Sushi
+    Expenses:Food:Lunch                        $7.34
+    Assets:Checking
+
+2008/03/18 * NW Natural
+    Expenses:Utils:Gas                        $56.47
+    Assets:Checking
+
+2008/03/19 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.01
+    Assets:Checking
+
+2008/03/20 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.61
+    Assets:Checking
+
+2008/03/22 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/03/24 * Taco Del Mar
+    Expenses:Food:Lunch                        $8.77
+    Assets:Checking
+
+2008/03/25 * Safeway
+    Expenses:Food:Groceries                   $36.16
+    Assets:Checking
+
+2008/03/25 * Mio Sushi
+    Expenses:Food:Lunch                        $9.27
+    Assets:Checking
+
+2008/03/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2008/03/27 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.68
+    Assets:Checking
+
+2008/03/27 * Panda Express
+    Expenses:Food:Lunch                        $7.29
+    Assets:Checking
+
+2008/03/28 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.12
+    Assets:Checking
+
+2008/03/29 * McMennemin's
+    Expenses:Food:Dinner                      $20.26
+    Assets:Checking
+
+2008/04/01 * Fred Meyer
+    Expenses:Food:Groceries                   $62.12
+    Assets:Checking
+
+2008/04/02 * Mio Sushi
+    Expenses:Food:Lunch                       $10.62
+    Assets:Checking
+
+2008/04/03 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.47
+    Assets:Checking
+
+2008/04/03 * Panda Express
+    Expenses:Food:Lunch                       $12.35
+    Assets:Checking
+
+2008/04/04 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.04
+    Assets:Checking
+
+2008/04/04 * Old Town Pizza
+    Expenses:Food:Dinner                      $46.43
+    Assets:Checking
+
+2008/04/07 * Panda Express
+    Expenses:Food:Lunch                        $9.83
+    Assets:Checking
+
+2008/04/07 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/04/08 * Safeway
+    Expenses:Food:Groceries                   $72.81
+    Assets:Checking
+
+2008/04/08 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.62
+    Assets:Checking
+
+2008/04/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2008/04/08 * Car Payment
+    Liabilities:Loans:Car                    $354.13
+    Expenses:Interest:Car                    $110.54
+    Assets:Checking
+
+2008/04/08 * Student Loan Payment
+    Liabilities:Loans:Student                $185.33
+    Expenses:Interest:Student                 $11.66
+    Assets:Checking
+
+2008/04/09 * Taco Del Mar
+    Expenses:Food:Lunch                       $12.70
+    Assets:Checking
+
+2008/04/10 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.30
+    Assets:Checking
+
+2008/04/11 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.57
+    Assets:Checking
+
+2008/04/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2008/04/14 * Sizzle Pie
+    Expenses:Food:Lunch                       $13.08
+    Assets:Checking
+
+2008/04/15 * Fred Meyer
+    Expenses:Food:Groceries                   $96.37
+    Assets:Checking
+
+2008/04/16 * Pacific Power
+    Expenses:Utils:Electric                   $55.62
+    Assets:Checking
+
+2008/04/17 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.47
+    Assets:Checking
+
+2008/04/17 * Sizzle Pie
+    Expenses:Food:Lunch                        $6.69
+    Assets:Checking
+
+2008/04/18 * NW Natural
+    Expenses:Utils:Gas                        $53.90
+    Assets:Checking
+
+2008/04/21 * Mio Sushi
+    Expenses:Food:Lunch                        $8.85
+    Assets:Checking
+
+2008/04/22 * New Seasons
+    Expenses:Food:Groceries                   $49.92
+    Assets:Checking
+
+2008/04/22 * Food Carts
+    Expenses:Food:Lunch                        $7.44
+    Assets:Checking
+
+2008/04/22 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/04/24 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.50
+    Assets:Checking
+
+2008/04/24 * Papa John's
+    Expenses:Food:Dinner                      $22.13
+    Assets:Checking
+
+2008/04/25 * Mio Sushi
+    Expenses:Food:Lunch                       $14.54
+    Assets:Checking
+
+2008/04/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2008/04/26 * McMennemin's
+    Expenses:Food:Dinner                      $55.69
+    Assets:Checking
+
+2008/04/28 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.64
+    Assets:Checking
+
+2008/04/29 * New Seasons
+    Expenses:Food:Groceries                   $56.05
+    Assets:Checking
+
+2008/04/29 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.41
+    Assets:Checking
+
+2008/04/30 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.43
+    Assets:Checking
+
+2008/05/01 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.24
+    Assets:Checking
+
+2008/05/02 * Food Carts
+    Expenses:Food:Lunch                        $9.29
+    Assets:Checking
+
+2008/05/04 * Papa John's
+    Expenses:Food:Dinner                      $21.15
+    Assets:Checking
+
+2008/05/05 * Food Carts
+    Expenses:Food:Lunch                       $10.26
+    Assets:Checking
+
+2008/05/06 * New Seasons
+    Expenses:Food:Groceries                   $52.24
+    Assets:Checking
+
+2008/05/07 * Mio Sushi
+    Expenses:Food:Lunch                        $8.94
+    Assets:Checking
+
+2008/05/07 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/05/08 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.48
+    Assets:Checking
+
+2008/05/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2008/05/08 * Car Payment
+    Liabilities:Loans:Car                    $356.24
+    Expenses:Interest:Car                    $118.68
+    Assets:Checking
+
+2008/05/08 * Student Loan Payment
+    Liabilities:Loans:Student                $191.87
+    Expenses:Interest:Student                 $11.74
+    Assets:Checking
+
+2008/05/12 * Taco Del Mar
+    Expenses:Food:Lunch                       $11.28
+    Assets:Checking
+
+2008/05/13 * Safeway
+    Expenses:Food:Groceries                   $78.60
+    Assets:Checking
+
+2008/05/13 * Panda Express
+    Expenses:Food:Lunch                        $7.08
+    Assets:Checking
+
+2008/05/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2008/05/14 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.50
+    Assets:Checking
+
+2008/05/15 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.59
+    Assets:Checking
+
+2008/05/15 * Mio Sushi
+    Expenses:Food:Lunch                        $6.33
+    Assets:Checking
+
+2008/05/16 * Pacific Power
+    Expenses:Utils:Electric                   $51.46
+    Assets:Checking
+
+2008/05/18 * NW Natural
+    Expenses:Utils:Gas                        $58.41
+    Assets:Checking
+
+2008/05/19 * Sizzle Pie
+    Expenses:Food:Lunch                       $13.51
+    Assets:Checking
+
+2008/05/20 * Fred Meyer
+    Expenses:Food:Groceries                   $73.82
+    Assets:Checking
+
+2008/05/20 * Food Carts
+    Expenses:Food:Lunch                        $6.19
+    Assets:Checking
+
+2008/05/21 * Food Carts
+    Expenses:Food:Lunch                        $8.03
+    Assets:Checking
+
+2008/05/22 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.53
+    Assets:Checking
+
+2008/05/22 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/05/26 * Taco Del Mar
+    Expenses:Food:Lunch                       $10.55
+    Assets:Checking
+
+2008/05/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2008/05/27 * Safeway
+    Expenses:Food:Groceries                   $75.72
+    Assets:Checking
+
+2008/05/27 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.32
+    Assets:Checking
+
+2008/05/28 * Taco Del Mar
+    Expenses:Food:Lunch                       $11.10
+    Assets:Checking
+
+2008/05/29 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.53
+    Assets:Checking
+
+2008/05/29 * Panda Express
+    Expenses:Food:Lunch                        $5.22
+    Assets:Checking
+
+2008/05/30 * Panda Express
+    Expenses:Food:Lunch                        $7.61
+    Assets:Checking
+
+2008/06/02 * Taco Del Mar
+    Expenses:Food:Lunch                       $11.36
+    Assets:Checking
+
+2008/06/03 * New Seasons
+    Expenses:Food:Groceries                   $29.60
+    Assets:Checking
+
+2008/06/04 * Panda Express
+    Expenses:Food:Lunch                        $5.28
+    Assets:Checking
+
+2008/06/05 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.50
+    Assets:Checking
+
+2008/06/07 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/06/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2008/06/08 * Car Payment
+    Liabilities:Loans:Car                    $355.70
+    Expenses:Interest:Car                    $117.28
+    Assets:Checking
+
+2008/06/08 * Student Loan Payment
+    Liabilities:Loans:Student                $188.65
+    Expenses:Interest:Student                 $11.20
+    Assets:Checking
+
+2008/06/09 * Food Carts
+    Expenses:Food:Lunch                        $6.78
+    Assets:Checking
+
+2008/06/10 * Fred Meyer
+    Expenses:Food:Groceries                   $54.69
+    Assets:Checking
+
+2008/06/10 * Panda Express
+    Expenses:Food:Lunch                       $11.97
+    Assets:Checking
+
+2008/06/12 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.43
+    Assets:Checking
+
+2008/06/12 * Food Carts
+    Expenses:Food:Lunch                       $15.42
+    Assets:Checking
+
+2008/06/13 * Mio Sushi
+    Expenses:Food:Lunch                       $10.69
+    Assets:Checking
+
+2008/06/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2008/06/16 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.97
+    Assets:Checking
+
+2008/06/16 * Pacific Power
+    Expenses:Utils:Electric                   $53.71
+    Assets:Checking
+
+2008/06/17 * New Seasons
+    Expenses:Food:Groceries                   $63.65
+    Assets:Checking
+
+2008/06/18 * Mio Sushi
+    Expenses:Food:Lunch                        $7.83
+    Assets:Checking
+
+2008/06/18 * NW Natural
+    Expenses:Utils:Gas                        $58.07
+    Assets:Checking
+
+2008/06/19 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.54
+    Assets:Checking
+
+2008/06/19 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.51
+    Assets:Checking
+
+2008/06/20 * Mio Sushi
+    Expenses:Food:Lunch                        $6.81
+    Assets:Checking
+
+2008/06/22 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/06/23 * Food Carts
+    Expenses:Food:Lunch                        $8.75
+    Assets:Checking
+
+2008/06/24 * New Seasons
+    Expenses:Food:Groceries                   $48.25
+    Assets:Checking
+
+2008/06/24 * Mio Sushi
+    Expenses:Food:Lunch                        $9.25
+    Assets:Checking
+
+2008/06/25 * Panda Express
+    Expenses:Food:Lunch                        $7.32
+    Assets:Checking
+
+2008/06/26 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.62
+    Assets:Checking
+
+2008/06/26 * Taco Del Mar
+    Expenses:Food:Lunch                       $12.78
+    Assets:Checking
+
+2008/06/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2008/06/27 * Food Carts
+    Expenses:Food:Lunch                        $9.55
+    Assets:Checking
+
+2008/06/30 * Mio Sushi
+    Expenses:Food:Lunch                        $8.24
+    Assets:Checking
+
+2008/07/01 * Safeway
+    Expenses:Food:Groceries                  $104.38
+    Assets:Checking
+
+2008/07/01 * Panda Express
+    Expenses:Food:Lunch                       $14.24
+    Assets:Checking
+
+2008/07/02 * Taco Del Mar
+    Expenses:Food:Lunch                       $15.13
+    Assets:Checking
+
+2008/07/03 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.35
+    Assets:Checking
+
+2008/07/07 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/07/08 * New Seasons
+    Expenses:Food:Groceries                   $62.60
+    Assets:Checking
+
+2008/07/08 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.03
+    Assets:Checking
+
+2008/07/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2008/07/08 * Car Payment
+    Liabilities:Loans:Car                    $350.41
+    Expenses:Interest:Car                    $110.67
+    Assets:Checking
+
+2008/07/08 * Student Loan Payment
+    Liabilities:Loans:Student                $187.76
+    Expenses:Interest:Student                 $14.32
+    Assets:Checking
+
+2008/07/09 * Sizzle Pie
+    Expenses:Food:Lunch                       $14.22
+    Assets:Checking
+
+2008/07/10 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.58
+    Assets:Checking
+
+2008/07/10 * Mio Sushi
+    Expenses:Food:Lunch                        $7.70
+    Assets:Checking
+
+2008/07/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2008/07/15 * Safeway
+    Expenses:Food:Groceries                   $74.61
+    Assets:Checking
+
+2008/07/16 * Taco Del Mar
+    Expenses:Food:Lunch                       $17.86
+    Assets:Checking
+
+2008/07/16 * Pacific Power
+    Expenses:Utils:Electric                   $57.13
+    Assets:Checking
+
+2008/07/17 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.50
+    Assets:Checking
+
+2008/07/17 * Panda Express
+    Expenses:Food:Lunch                       $16.16
+    Assets:Checking
+
+2008/07/18 * NW Natural
+    Expenses:Utils:Gas                        $54.56
+    Assets:Checking
+
+2008/07/18 * Mike's Drive In
+    Expenses:Food:Dinner                      $37.81
+    Assets:Checking
+
+2008/07/21 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.90
+    Assets:Checking
+
+2008/07/22 * Fred Meyer
+    Expenses:Food:Groceries                   $81.99
+    Assets:Checking
+
+2008/07/22 * Taco Del Mar
+    Expenses:Food:Lunch                        $8.51
+    Assets:Checking
+
+2008/07/22 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/07/24 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.41
+    Assets:Checking
+
+2008/07/24 * Panda Express
+    Expenses:Food:Lunch                        $9.28
+    Assets:Checking
+
+2008/07/25 * Taco Del Mar
+    Expenses:Food:Lunch                        $5.66
+    Assets:Checking
+
+2008/07/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2008/07/29 * Safeway
+    Expenses:Food:Groceries                   $43.29
+    Assets:Checking
+
+2008/07/29 * Mio Sushi
+    Expenses:Food:Lunch                        $8.19
+    Assets:Checking
+
+2008/07/31 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.23
+    Assets:Checking
+
+2008/07/31 * Panda Express
+    Expenses:Food:Lunch                       $14.44
+    Assets:Checking
+
+2008/08/01 * Food Carts
+    Expenses:Food:Lunch                        $9.26
+    Assets:Checking
+
+2008/08/04 * Panda Express
+    Expenses:Food:Lunch                       $10.21
+    Assets:Checking
+
+2008/08/05 * Safeway
+    Expenses:Food:Groceries                   $85.84
+    Assets:Checking
+
+2008/08/05 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.11
+    Assets:Checking
+
+2008/08/07 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.61
+    Assets:Checking
+
+2008/08/07 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/08/08 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.02
+    Assets:Checking
+
+2008/08/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2008/08/08 * Car Payment
+    Liabilities:Loans:Car                    $354.45
+    Expenses:Interest:Car                    $113.26
+    Assets:Checking
+
+2008/08/08 * Student Loan Payment
+    Liabilities:Loans:Student                $195.89
+    Expenses:Interest:Student                 $12.94
+    Assets:Checking
+
+2008/08/12 * Safeway
+    Expenses:Food:Groceries                   $59.61
+    Assets:Checking
+
+2008/08/13 * Taco Del Mar
+    Expenses:Food:Lunch                        $8.18
+    Assets:Checking
+
+2008/08/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2008/08/14 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.49
+    Assets:Checking
+
+2008/08/14 * Panda Express
+    Expenses:Food:Lunch                       $12.56
+    Assets:Checking
+
+2008/08/15 * Panda Express
+    Expenses:Food:Lunch                       $15.89
+    Assets:Checking
+
+2008/08/16 * Pacific Power
+    Expenses:Utils:Electric                   $52.42
+    Assets:Checking
+
+2008/08/18 * Sizzle Pie
+    Expenses:Food:Lunch                       $11.63
+    Assets:Checking
+
+2008/08/18 * NW Natural
+    Expenses:Utils:Gas                        $56.01
+    Assets:Checking
+
+2008/08/19 * Safeway
+    Expenses:Food:Groceries                   $76.08
+    Assets:Checking
+
+2008/08/19 * Panda Express
+    Expenses:Food:Lunch                        $7.44
+    Assets:Checking
+
+2008/08/21 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.26
+    Assets:Checking
+
+2008/08/21 * Mio Sushi
+    Expenses:Food:Lunch                        $9.14
+    Assets:Checking
+
+2008/08/21 * Eddie's Flat Iron Pizza
+    Expenses:Food:Dinner                      $21.65
+    Assets:Checking
+
+2008/08/22 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.37
+    Assets:Checking
+
+2008/08/22 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/08/26 * New Seasons
+    Expenses:Food:Groceries                   $72.11
+    Assets:Checking
+
+2008/08/26 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.70
+    Assets:Checking
+
+2008/08/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2008/08/28 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.46
+    Assets:Checking
+
+2008/08/28 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.64
+    Assets:Checking
+
+2008/08/29 * Taco Del Mar
+    Expenses:Food:Lunch                       $12.96
+    Assets:Checking
+
+2008/08/29 * Pambiche
+    Expenses:Food:Dinner                      $53.86
+    Assets:Checking
+
+2008/09/01 * Mio Sushi
+    Expenses:Food:Lunch                        $6.12
+    Assets:Checking
+
+2008/09/02 * New Seasons
+    Expenses:Food:Groceries                   $49.10
+    Assets:Checking
+
+2008/09/03 * Taco Del Mar
+    Expenses:Food:Lunch                       $11.91
+    Assets:Checking
+
+2008/09/04 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.59
+    Assets:Checking
+
+2008/09/04 * Mio Sushi
+    Expenses:Food:Lunch                        $6.24
+    Assets:Checking
+
+2008/09/05 * Panda Express
+    Expenses:Food:Lunch                       $12.75
+    Assets:Checking
+
+2008/09/05 * Apizza Scholls
+    Expenses:Food:Dinner                      $20.09
+    Assets:Checking
+
+2008/09/06 * Old Town Pizza
+    Expenses:Food:Dinner                      $24.03
+    Assets:Checking
+
+2008/09/07 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/09/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2008/09/08 * Car Payment
+    Liabilities:Loans:Car                    $354.21
+    Expenses:Interest:Car                    $109.08
+    Assets:Checking
+
+2008/09/08 * Student Loan Payment
+    Liabilities:Loans:Student                $187.13
+    Expenses:Interest:Student                 $13.65
+    Assets:Checking
+
+2008/09/09 * Fred Meyer
+    Expenses:Food:Groceries                   $80.75
+    Assets:Checking
+
+2008/09/09 * Food Carts
+    Expenses:Food:Lunch                       $13.67
+    Assets:Checking
+
+2008/09/11 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.48
+    Assets:Checking
+
+2008/09/11 * Taco Del Mar
+    Expenses:Food:Lunch                       $14.79
+    Assets:Checking
+
+2008/09/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2008/09/15 * Food Carts
+    Expenses:Food:Lunch                       $14.05
+    Assets:Checking
+
+2008/09/16 * Fred Meyer
+    Expenses:Food:Groceries                   $64.14
+    Assets:Checking
+
+2008/09/16 * Panda Express
+    Expenses:Food:Lunch                       $12.87
+    Assets:Checking
+
+2008/09/16 * Pacific Power
+    Expenses:Utils:Electric                   $52.39
+    Assets:Checking
+
+2008/09/18 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.28
+    Assets:Checking
+
+2008/09/18 * Mio Sushi
+    Expenses:Food:Lunch                        $9.71
+    Assets:Checking
+
+2008/09/18 * NW Natural
+    Expenses:Utils:Gas                        $53.74
+    Assets:Checking
+
+2008/09/20 * Mike's Drive In
+    Expenses:Food:Dinner                      $51.66
+    Assets:Checking
+
+2008/09/21 * Papa John's
+    Expenses:Food:Dinner                      $22.16
+    Assets:Checking
+
+2008/09/22 * Panda Express
+    Expenses:Food:Lunch                        $8.40
+    Assets:Checking
+
+2008/09/22 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/09/23 * Fred Meyer
+    Expenses:Food:Groceries                   $45.96
+    Assets:Checking
+
+2008/09/24 * Panda Express
+    Expenses:Food:Lunch                        $6.00
+    Assets:Checking
+
+2008/09/25 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.60
+    Assets:Checking
+
+2008/09/25 * Panda Express
+    Expenses:Food:Lunch                       $12.73
+    Assets:Checking
+
+2008/09/26 * Panda Express
+    Expenses:Food:Lunch                        $7.73
+    Assets:Checking
+
+2008/09/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2008/09/30 * New Seasons
+    Expenses:Food:Groceries                   $67.87
+    Assets:Checking
+
+2008/09/30 * Food Carts
+    Expenses:Food:Lunch                        $5.33
+    Assets:Checking
+
+2008/10/02 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.24
+    Assets:Checking
+
+2008/10/02 * Sizzle Pie
+    Expenses:Food:Lunch                       $11.09
+    Assets:Checking
+
+2008/10/07 * Fred Meyer
+    Expenses:Food:Groceries                  $100.80
+    Assets:Checking
+
+2008/10/07 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/10/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2008/10/08 * Car Payment
+    Liabilities:Loans:Car                    $357.40
+    Expenses:Interest:Car                    $111.84
+    Assets:Checking
+
+2008/10/08 * Student Loan Payment
+    Liabilities:Loans:Student                $183.81
+    Expenses:Interest:Student                 $13.83
+    Assets:Checking
+
+2008/10/09 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.46
+    Assets:Checking
+
+2008/10/09 * Food Carts
+    Expenses:Food:Lunch                       $10.43
+    Assets:Checking
+
+2008/10/13 * Food Carts
+    Expenses:Food:Lunch                        $6.16
+    Assets:Checking
+
+2008/10/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2008/10/14 * Fred Meyer
+    Expenses:Food:Groceries                   $65.36
+    Assets:Checking
+
+2008/10/15 * Food Carts
+    Expenses:Food:Lunch                       $12.71
+    Assets:Checking
+
+2008/10/16 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.38
+    Assets:Checking
+
+2008/10/16 * Mio Sushi
+    Expenses:Food:Lunch                        $7.88
+    Assets:Checking
+
+2008/10/16 * Pacific Power
+    Expenses:Utils:Electric                   $56.61
+    Assets:Checking
+
+2008/10/16 * Papa John's
+    Expenses:Food:Dinner                      $23.01
+    Assets:Checking
+
+2008/10/17 * Sizzle Pie
+    Expenses:Food:Lunch                       $13.21
+    Assets:Checking
+
+2008/10/18 * NW Natural
+    Expenses:Utils:Gas                        $53.78
+    Assets:Checking
+
+2008/10/21 * Safeway
+    Expenses:Food:Groceries                   $96.17
+    Assets:Checking
+
+2008/10/21 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.52
+    Assets:Checking
+
+2008/10/22 * Food Carts
+    Expenses:Food:Lunch                       $14.24
+    Assets:Checking
+
+2008/10/22 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/10/23 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.36
+    Assets:Checking
+
+2008/10/24 * Mio Sushi
+    Expenses:Food:Lunch                        $7.62
+    Assets:Checking
+
+2008/10/25 * Mio Sushi
+    Expenses:Food:Dinner                      $66.39
+    Assets:Checking
+
+2008/10/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2008/10/28 * Fred Meyer
+    Expenses:Food:Groceries                   $65.88
+    Assets:Checking
+
+2008/10/28 * Taco Del Mar
+    Expenses:Food:Lunch                       $14.52
+    Assets:Checking
+
+2008/10/30 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.40
+    Assets:Checking
+
+2008/11/04 * Fred Meyer
+    Expenses:Food:Groceries                   $66.60
+    Assets:Checking
+
+2008/11/04 * Food Carts
+    Expenses:Food:Lunch                       $12.46
+    Assets:Checking
+
+2008/11/06 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.56
+    Assets:Checking
+
+2008/11/06 * Food Carts
+    Expenses:Food:Lunch                        $7.29
+    Assets:Checking
+
+2008/11/07 * Food Carts
+    Expenses:Food:Lunch                        $6.75
+    Assets:Checking
+
+2008/11/07 * Old Town Pizza
+    Expenses:Food:Dinner                      $27.90
+    Assets:Checking
+
+2008/11/07 * Salary
+    Income:Salary                          $-2220.00
+    Assets:401K                              $110.00
+    Assets:Savings                           $110.00
+    Expenses:Taxes:State                     $215.00
+    Expenses:Taxes:Federal                   $510.00
+    Expenses:Taxes:Social Security           $136.00
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/11/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2008/11/08 * Car Payment
+    Liabilities:Loans:Car                    $350.72
+    Expenses:Interest:Car                    $103.68
+    Assets:Checking
+
+2008/11/08 * Student Loan Payment
+    Liabilities:Loans:Student                $192.18
+    Expenses:Interest:Student                 $11.57
+    Assets:Checking
+
+2008/11/09 * Papa John's
+    Expenses:Food:Dinner                      $21.47
+    Assets:Checking
+
+2008/11/11 * Fred Meyer
+    Expenses:Food:Groceries                   $28.55
+    Assets:Checking
+
+2008/11/12 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.05
+    Assets:Checking
+
+2008/11/13 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.43
+    Assets:Checking
+
+2008/11/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2008/11/16 * Pacific Power
+    Expenses:Utils:Electric                   $57.62
+    Assets:Checking
+
+2008/11/17 * Panda Express
+    Expenses:Food:Lunch                        $6.23
+    Assets:Checking
+
+2008/11/18 * New Seasons
+    Expenses:Food:Groceries                   $63.76
+    Assets:Checking
+
+2008/11/18 * Panda Express
+    Expenses:Food:Lunch                        $9.57
+    Assets:Checking
+
+2008/11/18 * NW Natural
+    Expenses:Utils:Gas                        $57.80
+    Assets:Checking
+
+2008/11/20 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.52
+    Assets:Checking
+
+2008/11/21 * Mio Sushi
+    Expenses:Food:Lunch                       $11.90
+    Assets:Checking
+
+2008/11/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/11/23 * Papa John's
+    Expenses:Food:Dinner                      $22.57
+    Assets:Checking
+
+2008/11/24 * Mio Sushi
+    Expenses:Food:Lunch                        $7.10
+    Assets:Checking
+
+2008/11/25 * New Seasons
+    Expenses:Food:Groceries                   $33.17
+    Assets:Checking
+
+2008/11/26 * Panda Express
+    Expenses:Food:Lunch                        $8.90
+    Assets:Checking
+
+2008/11/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2008/11/27 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.53
+    Assets:Checking
+
+2008/11/27 * Sizzle Pie
+    Expenses:Food:Lunch                       $16.05
+    Assets:Checking
+
+2008/11/28 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.27
+    Assets:Checking
+
+2008/12/02 * Safeway
+    Expenses:Food:Groceries                   $41.54
+    Assets:Checking
+
+2008/12/03 * Taco Del Mar
+    Expenses:Food:Lunch                       $10.70
+    Assets:Checking
+
+2008/12/04 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.28
+    Assets:Checking
+
+2008/12/05 * Mio Sushi
+    Expenses:Food:Lunch                       $12.30
+    Assets:Checking
+
+2008/12/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/12/08 * Food Carts
+    Expenses:Food:Lunch                        $8.62
+    Assets:Checking
+
+2008/12/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2008/12/08 * Car Payment
+    Liabilities:Loans:Car                    $355.46
+    Expenses:Interest:Car                    $110.32
+    Assets:Checking
+
+2008/12/08 * Student Loan Payment
+    Liabilities:Loans:Student                $187.75
+    Expenses:Interest:Student                 $13.65
+    Assets:Checking
+
+2008/12/09 * Safeway
+    Expenses:Food:Groceries                   $39.11
+    Assets:Checking
+
+2008/12/11 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.40
+    Assets:Checking
+
+2008/12/11 * Food Carts
+    Expenses:Food:Lunch                        $8.46
+    Assets:Checking
+
+2008/12/12 * Food Carts
+    Expenses:Food:Lunch                       $14.51
+    Assets:Checking
+
+2008/12/12 * Mio Sushi
+    Expenses:Food:Dinner                      $48.76
+    Assets:Checking
+
+2008/12/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2008/12/15 * Taco Del Mar
+    Expenses:Food:Lunch                       $10.81
+    Assets:Checking
+
+2008/12/16 * New Seasons
+    Expenses:Food:Groceries                   $48.47
+    Assets:Checking
+
+2008/12/16 * Panda Express
+    Expenses:Food:Lunch                       $10.77
+    Assets:Checking
+
+2008/12/16 * Pacific Power
+    Expenses:Utils:Electric                   $53.46
+    Assets:Checking
+
+2008/12/17 * Panda Express
+    Expenses:Food:Lunch                       $10.79
+    Assets:Checking
+
+2008/12/18 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.28
+    Assets:Checking
+
+2008/12/18 * NW Natural
+    Expenses:Utils:Gas                        $56.27
+    Assets:Checking
+
+2008/12/22 * Taco Del Mar
+    Expenses:Food:Lunch                        $8.59
+    Assets:Checking
+
+2008/12/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2008/12/23 * New Seasons
+    Expenses:Food:Groceries                   $77.20
+    Assets:Checking
+
+2008/12/23 * Panda Express
+    Expenses:Food:Lunch                        $7.93
+    Assets:Checking
+
+2008/12/24 * Panda Express
+    Expenses:Food:Lunch                       $14.06
+    Assets:Checking
+
+2008/12/25 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.60
+    Assets:Checking
+
+2008/12/25 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.00
+    Assets:Checking
+
+2008/12/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2008/12/29 * Panda Express
+    Expenses:Food:Lunch                        $9.54
+    Assets:Checking
+
+2008/12/30 * New Seasons
+    Expenses:Food:Groceries                  $104.16
+    Assets:Checking
+
+2008/12/30 * Taco Del Mar
+    Expenses:Food:Lunch                        $8.72
+    Assets:Checking
+
+2009/01/01 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.65
+    Assets:Checking
+
+2009/01/01 * Taco Del Mar
+    Expenses:Food:Lunch                       $11.43
+    Assets:Checking
+
+2009/01/02 * Panda Express
+    Expenses:Food:Lunch                       $14.06
+    Assets:Checking
+
+2009/01/06 * New Seasons
+    Expenses:Food:Groceries                   $45.68
+    Assets:Checking
+
+2009/01/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/01/08 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.68
+    Assets:Checking
+
+2009/01/08 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.59
+    Assets:Checking
+
+2009/01/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2009/01/08 * Car Payment
+    Liabilities:Loans:Car                    $352.76
+    Expenses:Interest:Car                    $113.90
+    Assets:Checking
+
+2009/01/08 * Student Loan Payment
+    Liabilities:Loans:Student                $194.23
+    Expenses:Interest:Student                 $13.97
+    Assets:Checking
+
+2009/01/11 * Papa John's
+    Expenses:Food:Dinner                      $21.78
+    Assets:Checking
+
+2009/01/12 * Mio Sushi
+    Expenses:Food:Lunch                        $7.01
+    Assets:Checking
+
+2009/01/13 * New Seasons
+    Expenses:Food:Groceries                   $65.86
+    Assets:Checking
+
+2009/01/13 * Mio Sushi
+    Expenses:Food:Lunch                        $7.58
+    Assets:Checking
+
+2009/01/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2009/01/14 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.16
+    Assets:Checking
+
+2009/01/15 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.45
+    Assets:Checking
+
+2009/01/15 * Panda Express
+    Expenses:Food:Lunch                        $6.59
+    Assets:Checking
+
+2009/01/16 * Mio Sushi
+    Expenses:Food:Lunch                       $13.90
+    Assets:Checking
+
+2009/01/16 * Pacific Power
+    Expenses:Utils:Electric                   $57.16
+    Assets:Checking
+
+2009/01/17 * Apizza Scholls
+    Expenses:Food:Dinner                      $50.22
+    Assets:Checking
+
+2009/01/18 * NW Natural
+    Expenses:Utils:Gas                        $54.93
+    Assets:Checking
+
+2009/01/20 * New Seasons
+    Expenses:Food:Groceries                   $49.90
+    Assets:Checking
+
+2009/01/22 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.57
+    Assets:Checking
+
+2009/01/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/01/23 * Food Carts
+    Expenses:Food:Lunch                        $5.75
+    Assets:Checking
+
+2009/01/24 * Apizza Scholls
+    Expenses:Food:Dinner                      $28.97
+    Assets:Checking
+
+2009/01/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2009/01/27 * Safeway
+    Expenses:Food:Groceries                   $42.75
+    Assets:Checking
+
+2009/01/28 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.66
+    Assets:Checking
+
+2009/01/29 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.41
+    Assets:Checking
+
+2009/01/29 * Taco Del Mar
+    Expenses:Food:Lunch                       $15.19
+    Assets:Checking
+
+2009/01/30 * Panda Express
+    Expenses:Food:Lunch                        $7.08
+    Assets:Checking
+
+2009/02/02 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.08
+    Assets:Checking
+
+2009/02/03 * New Seasons
+    Expenses:Food:Groceries                   $87.08
+    Assets:Checking
+
+2009/02/05 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.39
+    Assets:Checking
+
+2009/02/05 * Mio Sushi
+    Expenses:Food:Lunch                        $6.70
+    Assets:Checking
+
+2009/02/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/02/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2009/02/08 * Car Payment
+    Liabilities:Loans:Car                    $354.06
+    Expenses:Interest:Car                    $117.51
+    Assets:Checking
+
+2009/02/08 * Student Loan Payment
+    Liabilities:Loans:Student                $184.61
+    Expenses:Interest:Student                 $13.14
+    Assets:Checking
+
+2009/02/10 * Fred Meyer
+    Expenses:Food:Groceries                   $50.02
+    Assets:Checking
+
+2009/02/11 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.64
+    Assets:Checking
+
+2009/02/12 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.34
+    Assets:Checking
+
+2009/02/12 * Mio Sushi
+    Expenses:Food:Lunch                        $6.70
+    Assets:Checking
+
+2009/02/13 * Sizzle Pie
+    Expenses:Food:Lunch                       $13.09
+    Assets:Checking
+
+2009/02/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2009/02/16 * Pacific Power
+    Expenses:Utils:Electric                   $55.08
+    Assets:Checking
+
+2009/02/17 * Fred Meyer
+    Expenses:Food:Groceries                   $56.98
+    Assets:Checking
+
+2009/02/17 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.62
+    Assets:Checking
+
+2009/02/18 * NW Natural
+    Expenses:Utils:Gas                        $52.19
+    Assets:Checking
+
+2009/02/19 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.60
+    Assets:Checking
+
+2009/02/19 * Food Carts
+    Expenses:Food:Lunch                       $13.38
+    Assets:Checking
+
+2009/02/22 * Pizza Hut
+    Expenses:Food:Dinner                      $21.78
+    Assets:Checking
+
+2009/02/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/02/23 * Taco Del Mar
+    Expenses:Food:Lunch                       $16.29
+    Assets:Checking
+
+2009/02/24 * Fred Meyer
+    Expenses:Food:Groceries                   $94.51
+    Assets:Checking
+
+2009/02/26 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.67
+    Assets:Checking
+
+2009/02/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2009/03/03 * New Seasons
+    Expenses:Food:Groceries                   $59.17
+    Assets:Checking
+
+2009/03/03 * Taco Del Mar
+    Expenses:Food:Lunch                        $8.62
+    Assets:Checking
+
+2009/03/05 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.72
+    Assets:Checking
+
+2009/03/05 * Mio Sushi
+    Expenses:Food:Lunch                       $16.56
+    Assets:Checking
+
+2009/03/06 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.61
+    Assets:Checking
+
+2009/03/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/03/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2009/03/08 * Car Payment
+    Liabilities:Loans:Car                    $356.29
+    Expenses:Interest:Car                    $104.41
+    Assets:Checking
+
+2009/03/08 * Student Loan Payment
+    Liabilities:Loans:Student                $187.27
+    Expenses:Interest:Student                 $13.81
+    Assets:Checking
+
+2009/03/09 * Taco Del Mar
+    Expenses:Food:Lunch                        $8.29
+    Assets:Checking
+
+2009/03/10 * Safeway
+    Expenses:Food:Groceries                   $58.53
+    Assets:Checking
+
+2009/03/12 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.48
+    Assets:Checking
+
+2009/03/12 * Pizza Hut
+    Expenses:Food:Dinner                      $24.05
+    Assets:Checking
+
+2009/03/13 * Taco Del Mar
+    Expenses:Food:Lunch                       $11.57
+    Assets:Checking
+
+2009/03/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2009/03/14 * Tanuki
+    Expenses:Food:Dinner                      $66.36
+    Assets:Checking
+
+2009/03/16 * Mio Sushi
+    Expenses:Food:Lunch                        $6.35
+    Assets:Checking
+
+2009/03/16 * Pacific Power
+    Expenses:Utils:Electric                   $57.11
+    Assets:Checking
+
+2009/03/17 * Safeway
+    Expenses:Food:Groceries                   $83.63
+    Assets:Checking
+
+2009/03/18 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.62
+    Assets:Checking
+
+2009/03/18 * NW Natural
+    Expenses:Utils:Gas                        $57.93
+    Assets:Checking
+
+2009/03/19 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.33
+    Assets:Checking
+
+2009/03/19 * Mio Sushi
+    Expenses:Food:Lunch                        $6.59
+    Assets:Checking
+
+2009/03/20 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.25
+    Assets:Checking
+
+2009/03/20 * Apizza Scholls
+    Expenses:Food:Dinner                      $36.69
+    Assets:Checking
+
+2009/03/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/03/23 * Panda Express
+    Expenses:Food:Lunch                        $5.71
+    Assets:Checking
+
+2009/03/24 * New Seasons
+    Expenses:Food:Groceries                   $81.04
+    Assets:Checking
+
+2009/03/25 * Mio Sushi
+    Expenses:Food:Lunch                        $6.40
+    Assets:Checking
+
+2009/03/26 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.37
+    Assets:Checking
+
+2009/03/26 * Food Carts
+    Expenses:Food:Lunch                       $13.62
+    Assets:Checking
+
+2009/03/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2009/03/26 * Pizza Hut
+    Expenses:Food:Dinner                      $24.01
+    Assets:Checking
+
+2009/03/30 * Food Carts
+    Expenses:Food:Lunch                       $12.90
+    Assets:Checking
+
+2009/03/31 * Safeway
+    Expenses:Food:Groceries                   $42.06
+    Assets:Checking
+
+2009/04/01 * Panda Express
+    Expenses:Food:Lunch                       $15.43
+    Assets:Checking
+
+2009/04/02 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.53
+    Assets:Checking
+
+2009/04/02 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.26
+    Assets:Checking
+
+2009/04/02 * Papa John's
+    Expenses:Food:Dinner                      $22.69
+    Assets:Checking
+
+2009/04/03 * Sizzle Pie
+    Expenses:Food:Lunch                        $6.07
+    Assets:Checking
+
+2009/04/07 * New Seasons
+    Expenses:Food:Groceries                   $38.47
+    Assets:Checking
+
+2009/04/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/04/08 * Taco Del Mar
+    Expenses:Food:Lunch                       $12.86
+    Assets:Checking
+
+2009/04/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2009/04/08 * Car Payment
+    Liabilities:Loans:Car                    $355.74
+    Expenses:Interest:Car                    $104.73
+    Assets:Checking
+
+2009/04/08 * Student Loan Payment
+    Liabilities:Loans:Student                $198.71
+    Expenses:Interest:Student                 $13.32
+    Assets:Checking
+
+2009/04/09 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.35
+    Assets:Checking
+
+2009/04/09 * Panda Express
+    Expenses:Food:Lunch                        $7.84
+    Assets:Checking
+
+2009/04/10 * Sizzle Pie
+    Expenses:Food:Lunch                       $15.17
+    Assets:Checking
+
+2009/04/13 * Mio Sushi
+    Expenses:Food:Lunch                       $10.56
+    Assets:Checking
+
+2009/04/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2009/04/14 * Fred Meyer
+    Expenses:Food:Groceries                   $53.82
+    Assets:Checking
+
+2009/04/14 * Taco Del Mar
+    Expenses:Food:Lunch                       $12.51
+    Assets:Checking
+
+2009/04/16 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.27
+    Assets:Checking
+
+2009/04/16 * Mio Sushi
+    Expenses:Food:Lunch                       $13.94
+    Assets:Checking
+
+2009/04/16 * Pacific Power
+    Expenses:Utils:Electric                   $54.26
+    Assets:Checking
+
+2009/04/17 * Panda Express
+    Expenses:Food:Lunch                       $11.96
+    Assets:Checking
+
+2009/04/18 * NW Natural
+    Expenses:Utils:Gas                        $58.19
+    Assets:Checking
+
+2009/04/18 * Tanuki
+    Expenses:Food:Dinner                      $47.00
+    Assets:Checking
+
+2009/04/19 * Pizza Hut
+    Expenses:Food:Dinner                      $22.49
+    Assets:Checking
+
+2009/04/20 * Food Carts
+    Expenses:Food:Lunch                        $7.50
+    Assets:Checking
+
+2009/04/21 * New Seasons
+    Expenses:Food:Groceries                   $99.92
+    Assets:Checking
+
+2009/04/22 * Mio Sushi
+    Expenses:Food:Lunch                        $6.61
+    Assets:Checking
+
+2009/04/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/04/23 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.47
+    Assets:Checking
+
+2009/04/24 * Food Carts
+    Expenses:Food:Lunch                        $5.57
+    Assets:Checking
+
+2009/04/25 * Tanuki
+    Expenses:Food:Dinner                      $54.80
+    Assets:Checking
+
+2009/04/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2009/04/26 * Eddie's Flat Iron Pizza
+    Expenses:Food:Dinner                      $23.15
+    Assets:Checking
+
+2009/04/27 * Mio Sushi
+    Expenses:Food:Lunch                       $16.11
+    Assets:Checking
+
+2009/04/28 * Safeway
+    Expenses:Food:Groceries                   $54.13
+    Assets:Checking
+
+2009/04/29 * Mio Sushi
+    Expenses:Food:Lunch                       $10.51
+    Assets:Checking
+
+2009/04/30 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.35
+    Assets:Checking
+
+2009/05/05 * Fred Meyer
+    Expenses:Food:Groceries                   $81.53
+    Assets:Checking
+
+2009/05/05 * Panda Express
+    Expenses:Food:Lunch                        $6.71
+    Assets:Checking
+
+2009/05/07 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.41
+    Assets:Checking
+
+2009/05/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/05/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2009/05/08 * Car Payment
+    Liabilities:Loans:Car                    $353.33
+    Expenses:Interest:Car                    $112.28
+    Assets:Checking
+
+2009/05/08 * Student Loan Payment
+    Liabilities:Loans:Student                $191.24
+    Expenses:Interest:Student                 $12.39
+    Assets:Checking
+
+2009/05/08 * Tastebud
+    Expenses:Food:Dinner                      $22.71
+    Assets:Checking
+
+2009/05/11 * Taco Del Mar
+    Expenses:Food:Lunch                       $14.06
+    Assets:Checking
+
+2009/05/12 * New Seasons
+    Expenses:Food:Groceries                   $67.77
+    Assets:Checking
+
+2009/05/12 * Taco Del Mar
+    Expenses:Food:Lunch                       $10.11
+    Assets:Checking
+
+2009/05/13 * Taco Del Mar
+    Expenses:Food:Lunch                       $14.63
+    Assets:Checking
+
+2009/05/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2009/05/14 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.54
+    Assets:Checking
+
+2009/05/14 * Panda Express
+    Expenses:Food:Lunch                       $10.19
+    Assets:Checking
+
+2009/05/16 * Pacific Power
+    Expenses:Utils:Electric                   $58.51
+    Assets:Checking
+
+2009/05/16 * Papa Hayden
+    Expenses:Food:Dinner                      $63.94
+    Assets:Checking
+
+2009/05/17 * Pizza Hut
+    Expenses:Food:Dinner                      $23.08
+    Assets:Checking
+
+2009/05/18 * Panda Express
+    Expenses:Food:Lunch                       $13.13
+    Assets:Checking
+
+2009/05/18 * NW Natural
+    Expenses:Utils:Gas                        $58.92
+    Assets:Checking
+
+2009/05/19 * Safeway
+    Expenses:Food:Groceries                   $47.39
+    Assets:Checking
+
+2009/05/19 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.66
+    Assets:Checking
+
+2009/05/20 * Mio Sushi
+    Expenses:Food:Lunch                       $13.74
+    Assets:Checking
+
+2009/05/21 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.49
+    Assets:Checking
+
+2009/05/21 * Sizzle Pie
+    Expenses:Food:Lunch                        $6.10
+    Assets:Checking
+
+2009/05/22 * Panda Express
+    Expenses:Food:Lunch                       $12.12
+    Assets:Checking
+
+2009/05/22 * Pambiche
+    Expenses:Food:Dinner                      $58.75
+    Assets:Checking
+
+2009/05/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/05/23 * Apizza Scholls
+    Expenses:Food:Dinner                      $39.32
+    Assets:Checking
+
+2009/05/26 * Fred Meyer
+    Expenses:Food:Groceries                   $62.86
+    Assets:Checking
+
+2009/05/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2009/05/28 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.62
+    Assets:Checking
+
+2009/05/29 * Sizzle Pie
+    Expenses:Food:Lunch                       $15.66
+    Assets:Checking
+
+2009/05/29 * Tastebud
+    Expenses:Food:Dinner                      $40.87
+    Assets:Checking
+
+2009/06/02 * New Seasons
+    Expenses:Food:Groceries                   $96.32
+    Assets:Checking
+
+2009/06/02 * Mio Sushi
+    Expenses:Food:Lunch                        $6.42
+    Assets:Checking
+
+2009/06/03 * Panda Express
+    Expenses:Food:Lunch                        $7.59
+    Assets:Checking
+
+2009/06/04 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.46
+    Assets:Checking
+
+2009/06/04 * Panda Express
+    Expenses:Food:Lunch                       $12.68
+    Assets:Checking
+
+2009/06/05 * Taco Del Mar
+    Expenses:Food:Lunch                       $16.64
+    Assets:Checking
+
+2009/06/05 * McMennemin's
+    Expenses:Food:Dinner                      $21.24
+    Assets:Checking
+
+2009/06/06 * Mike's Drive In
+    Expenses:Food:Dinner                      $21.94
+    Assets:Checking
+
+2009/06/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/06/08 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.26
+    Assets:Checking
+
+2009/06/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2009/06/08 * Car Payment
+    Liabilities:Loans:Car                    $353.59
+    Expenses:Interest:Car                    $112.44
+    Assets:Checking
+
+2009/06/08 * Student Loan Payment
+    Liabilities:Loans:Student                $187.09
+    Expenses:Interest:Student                 $12.65
+    Assets:Checking
+
+2009/06/09 * Safeway
+    Expenses:Food:Groceries                   $45.01
+    Assets:Checking
+
+2009/06/10 * Sizzle Pie
+    Expenses:Food:Lunch                       $13.71
+    Assets:Checking
+
+2009/06/11 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.62
+    Assets:Checking
+
+2009/06/12 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.39
+    Assets:Checking
+
+2009/06/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2009/06/15 * Taco Del Mar
+    Expenses:Food:Lunch                       $11.53
+    Assets:Checking
+
+2009/06/16 * Fred Meyer
+    Expenses:Food:Groceries                   $37.28
+    Assets:Checking
+
+2009/06/16 * Pacific Power
+    Expenses:Utils:Electric                   $51.63
+    Assets:Checking
+
+2009/06/18 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.52
+    Assets:Checking
+
+2009/06/18 * NW Natural
+    Expenses:Utils:Gas                        $54.24
+    Assets:Checking
+
+2009/06/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/06/23 * Safeway
+    Expenses:Food:Groceries                   $40.19
+    Assets:Checking
+
+2009/06/23 * Mio Sushi
+    Expenses:Food:Lunch                       $10.74
+    Assets:Checking
+
+2009/06/25 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.65
+    Assets:Checking
+
+2009/06/26 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.23
+    Assets:Checking
+
+2009/06/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2009/06/30 * Fred Meyer
+    Expenses:Food:Groceries                   $45.64
+    Assets:Checking
+
+2009/06/30 * Sizzle Pie
+    Expenses:Food:Lunch                       $12.57
+    Assets:Checking
+
+2009/07/02 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.49
+    Assets:Checking
+
+2009/07/02 * Papa John's
+    Expenses:Food:Dinner                      $23.34
+    Assets:Checking
+
+2009/07/03 * Mio Sushi
+    Expenses:Food:Lunch                       $13.92
+    Assets:Checking
+
+2009/07/03 * Tanuki
+    Expenses:Food:Dinner                      $67.72
+    Assets:Checking
+
+2009/07/07 * Safeway
+    Expenses:Food:Groceries                  $100.73
+    Assets:Checking
+
+2009/07/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/07/08 * Panda Express
+    Expenses:Food:Lunch                       $12.86
+    Assets:Checking
+
+2009/07/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2009/07/08 * Car Payment
+    Liabilities:Loans:Car                    $353.38
+    Expenses:Interest:Car                    $113.81
+    Assets:Checking
+
+2009/07/08 * Student Loan Payment
+    Liabilities:Loans:Student                $191.78
+    Expenses:Interest:Student                 $12.77
+    Assets:Checking
+
+2009/07/09 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.58
+    Assets:Checking
+
+2009/07/10 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.46
+    Assets:Checking
+
+2009/07/10 * Mio Sushi
+    Expenses:Food:Dinner                      $71.73
+    Assets:Checking
+
+2009/07/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2009/07/14 * Safeway
+    Expenses:Food:Groceries                   $98.08
+    Assets:Checking
+
+2009/07/14 * Panda Express
+    Expenses:Food:Lunch                       $17.74
+    Assets:Checking
+
+2009/07/16 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.58
+    Assets:Checking
+
+2009/07/16 * Taco Del Mar
+    Expenses:Food:Lunch                       $11.84
+    Assets:Checking
+
+2009/07/16 * Pacific Power
+    Expenses:Utils:Electric                   $57.82
+    Assets:Checking
+
+2009/07/17 * Mio Sushi
+    Expenses:Food:Lunch                       $16.99
+    Assets:Checking
+
+2009/07/18 * NW Natural
+    Expenses:Utils:Gas                        $53.26
+    Assets:Checking
+
+2009/07/20 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.41
+    Assets:Checking
+
+2009/07/21 * Safeway
+    Expenses:Food:Groceries                   $43.29
+    Assets:Checking
+
+2009/07/21 * Taco Del Mar
+    Expenses:Food:Lunch                       $13.15
+    Assets:Checking
+
+2009/07/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/07/23 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.33
+    Assets:Checking
+
+2009/07/23 * Sizzle Pie
+    Expenses:Food:Lunch                        $6.67
+    Assets:Checking
+
+2009/07/23 * Pizza Hut
+    Expenses:Food:Dinner                      $23.04
+    Assets:Checking
+
+2009/07/24 * Papa Hayden
+    Expenses:Food:Dinner                      $28.65
+    Assets:Checking
+
+2009/07/25 * Apizza Scholls
+    Expenses:Food:Dinner                      $26.84
+    Assets:Checking
+
+2009/07/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2009/07/28 * Fred Meyer
+    Expenses:Food:Groceries                   $53.50
+    Assets:Checking
+
+2009/07/28 * Panda Express
+    Expenses:Food:Lunch                        $6.10
+    Assets:Checking
+
+2009/07/30 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.60
+    Assets:Checking
+
+2009/07/30 * Panda Express
+    Expenses:Food:Lunch                       $14.23
+    Assets:Checking
+
+2009/07/31 * Panda Express
+    Expenses:Food:Lunch                        $7.74
+    Assets:Checking
+
+2009/07/31 * Apizza Scholls
+    Expenses:Food:Dinner                      $47.39
+    Assets:Checking
+
+2009/08/04 * Fred Meyer
+    Expenses:Food:Groceries                  $107.54
+    Assets:Checking
+
+2009/08/04 * Mio Sushi
+    Expenses:Food:Lunch                        $7.17
+    Assets:Checking
+
+2009/08/05 * Panda Express
+    Expenses:Food:Lunch                       $10.82
+    Assets:Checking
+
+2009/08/06 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.58
+    Assets:Checking
+
+2009/08/06 * Food Carts
+    Expenses:Food:Lunch                        $6.36
+    Assets:Checking
+
+2009/08/07 * Mio Sushi
+    Expenses:Food:Dinner                      $69.49
+    Assets:Checking
+
+2009/08/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/08/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2009/08/08 * Car Payment
+    Liabilities:Loans:Car                    $351.96
+    Expenses:Interest:Car                    $109.65
+    Assets:Checking
+
+2009/08/08 * Student Loan Payment
+    Liabilities:Loans:Student                $192.60
+    Expenses:Interest:Student                 $13.25
+    Assets:Checking
+
+2009/08/10 * Mio Sushi
+    Expenses:Food:Lunch                       $11.68
+    Assets:Checking
+
+2009/08/11 * Fred Meyer
+    Expenses:Food:Groceries                   $57.70
+    Assets:Checking
+
+2009/08/11 * Food Carts
+    Expenses:Food:Lunch                       $15.94
+    Assets:Checking
+
+2009/08/13 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.53
+    Assets:Checking
+
+2009/08/13 * Sizzle Pie
+    Expenses:Food:Lunch                       $14.43
+    Assets:Checking
+
+2009/08/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2009/08/14 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.76
+    Assets:Checking
+
+2009/08/14 * Tanuki
+    Expenses:Food:Dinner                      $25.81
+    Assets:Checking
+
+2009/08/16 * Pacific Power
+    Expenses:Utils:Electric                   $59.16
+    Assets:Checking
+
+2009/08/18 * New Seasons
+    Expenses:Food:Groceries                   $43.38
+    Assets:Checking
+
+2009/08/18 * NW Natural
+    Expenses:Utils:Gas                        $55.20
+    Assets:Checking
+
+2009/08/19 * Sizzle Pie
+    Expenses:Food:Lunch                       $13.17
+    Assets:Checking
+
+2009/08/20 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.35
+    Assets:Checking
+
+2009/08/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/08/24 * Panda Express
+    Expenses:Food:Lunch                       $14.84
+    Assets:Checking
+
+2009/08/25 * Safeway
+    Expenses:Food:Groceries                   $32.00
+    Assets:Checking
+
+2009/08/26 * Mio Sushi
+    Expenses:Food:Lunch                        $7.54
+    Assets:Checking
+
+2009/08/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2009/08/27 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.46
+    Assets:Checking
+
+2009/08/28 * Sizzle Pie
+    Expenses:Food:Lunch                       $13.09
+    Assets:Checking
+
+2009/08/28 * Old Town Pizza
+    Expenses:Food:Dinner                      $71.02
+    Assets:Checking
+
+2009/08/31 * Sizzle Pie
+    Expenses:Food:Lunch                       $15.82
+    Assets:Checking
+
+2009/09/01 * New Seasons
+    Expenses:Food:Groceries                   $36.44
+    Assets:Checking
+
+2009/09/02 * Food Carts
+    Expenses:Food:Lunch                        $7.10
+    Assets:Checking
+
+2009/09/03 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.67
+    Assets:Checking
+
+2009/09/04 * Panda Express
+    Expenses:Food:Lunch                       $12.03
+    Assets:Checking
+
+2009/09/04 * Tastebud
+    Expenses:Food:Dinner                      $20.42
+    Assets:Checking
+
+2009/09/06 * Papa John's
+    Expenses:Food:Dinner                      $22.01
+    Assets:Checking
+
+2009/09/07 * Food Carts
+    Expenses:Food:Lunch                        $7.74
+    Assets:Checking
+
+2009/09/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/09/08 * Safeway
+    Expenses:Food:Groceries                   $59.93
+    Assets:Checking
+
+2009/09/08 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.24
+    Assets:Checking
+
+2009/09/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2009/09/08 * Car Payment
+    Liabilities:Loans:Car                    $353.59
+    Expenses:Interest:Car                    $108.99
+    Assets:Checking
+
+2009/09/08 * Student Loan Payment
+    Liabilities:Loans:Student                $188.54
+    Expenses:Interest:Student                 $14.06
+    Assets:Checking
+
+2009/09/09 * Food Carts
+    Expenses:Food:Lunch                        $5.99
+    Assets:Checking
+
+2009/09/10 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.45
+    Assets:Checking
+
+2009/09/10 * Food Carts
+    Expenses:Food:Lunch                        $8.93
+    Assets:Checking
+
+2009/09/11 * Food Carts
+    Expenses:Food:Lunch                       $17.79
+    Assets:Checking
+
+2009/09/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2009/09/15 * Safeway
+    Expenses:Food:Groceries                   $54.67
+    Assets:Checking
+
+2009/09/15 * Mio Sushi
+    Expenses:Food:Lunch                        $9.94
+    Assets:Checking
+
+2009/09/16 * Pacific Power
+    Expenses:Utils:Electric                   $56.07
+    Assets:Checking
+
+2009/09/17 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.42
+    Assets:Checking
+
+2009/09/17 * Taco Del Mar
+    Expenses:Food:Lunch                       $16.99
+    Assets:Checking
+
+2009/09/18 * NW Natural
+    Expenses:Utils:Gas                        $56.23
+    Assets:Checking
+
+2009/09/22 * Safeway
+    Expenses:Food:Groceries                   $46.21
+    Assets:Checking
+
+2009/09/22 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.40
+    Assets:Checking
+
+2009/09/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/09/23 * Food Carts
+    Expenses:Food:Lunch                       $13.22
+    Assets:Checking
+
+2009/09/24 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.43
+    Assets:Checking
+
+2009/09/25 * Panda Express
+    Expenses:Food:Lunch                       $10.66
+    Assets:Checking
+
+2009/09/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2009/09/29 * Fred Meyer
+    Expenses:Food:Groceries                   $39.07
+    Assets:Checking
+
+2009/09/29 * Panda Express
+    Expenses:Food:Lunch                       $11.50
+    Assets:Checking
+
+2009/10/01 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.36
+    Assets:Checking
+
+2009/10/02 * Food Carts
+    Expenses:Food:Lunch                        $8.19
+    Assets:Checking
+
+2009/10/06 * New Seasons
+    Expenses:Food:Groceries                   $58.15
+    Assets:Checking
+
+2009/10/07 * Food Carts
+    Expenses:Food:Lunch                        $6.35
+    Assets:Checking
+
+2009/10/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/10/08 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.63
+    Assets:Checking
+
+2009/10/08 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.30
+    Assets:Checking
+
+2009/10/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2009/10/08 * Car Payment
+    Liabilities:Loans:Car                    $351.91
+    Expenses:Interest:Car                    $103.70
+    Assets:Checking
+
+2009/10/08 * Student Loan Payment
+    Liabilities:Loans:Student                $184.55
+    Expenses:Interest:Student                 $14.26
+    Assets:Checking
+
+2009/10/11 * Papa John's
+    Expenses:Food:Dinner                      $22.95
+    Assets:Checking
+
+2009/10/12 * Mio Sushi
+    Expenses:Food:Lunch                        $5.39
+    Assets:Checking
+
+2009/10/13 * Safeway
+    Expenses:Food:Groceries                   $40.70
+    Assets:Checking
+
+2009/10/13 * Taco Del Mar
+    Expenses:Food:Lunch                       $13.19
+    Assets:Checking
+
+2009/10/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2009/10/14 * Food Carts
+    Expenses:Food:Lunch                       $10.45
+    Assets:Checking
+
+2009/10/15 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.58
+    Assets:Checking
+
+2009/10/16 * Taco Del Mar
+    Expenses:Food:Lunch                       $13.25
+    Assets:Checking
+
+2009/10/16 * Pacific Power
+    Expenses:Utils:Electric                   $58.63
+    Assets:Checking
+
+2009/10/18 * NW Natural
+    Expenses:Utils:Gas                        $59.24
+    Assets:Checking
+
+2009/10/19 * Taco Del Mar
+    Expenses:Food:Lunch                       $11.74
+    Assets:Checking
+
+2009/10/20 * Safeway
+    Expenses:Food:Groceries                   $47.77
+    Assets:Checking
+
+2009/10/21 * Mio Sushi
+    Expenses:Food:Lunch                        $6.43
+    Assets:Checking
+
+2009/10/22 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.64
+    Assets:Checking
+
+2009/10/22 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.04
+    Assets:Checking
+
+2009/10/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/10/23 * Food Carts
+    Expenses:Food:Lunch                       $10.54
+    Assets:Checking
+
+2009/10/26 * Taco Del Mar
+    Expenses:Food:Lunch                       $13.32
+    Assets:Checking
+
+2009/10/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2009/10/27 * New Seasons
+    Expenses:Food:Groceries                   $71.76
+    Assets:Checking
+
+2009/10/27 * Panda Express
+    Expenses:Food:Lunch                       $11.54
+    Assets:Checking
+
+2009/10/28 * Mio Sushi
+    Expenses:Food:Lunch                       $16.30
+    Assets:Checking
+
+2009/10/29 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.53
+    Assets:Checking
+
+2009/10/30 * Food Carts
+    Expenses:Food:Lunch                        $9.19
+    Assets:Checking
+
+2009/11/03 * New Seasons
+    Expenses:Food:Groceries                  $117.15
+    Assets:Checking
+
+2009/11/03 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.85
+    Assets:Checking
+
+2009/11/04 * Food Carts
+    Expenses:Food:Lunch                       $11.68
+    Assets:Checking
+
+2009/11/05 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.32
+    Assets:Checking
+
+2009/11/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/11/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2009/11/08 * Car Payment
+    Liabilities:Loans:Car                    $359.62
+    Expenses:Interest:Car                    $106.09
+    Assets:Checking
+
+2009/11/08 * Student Loan Payment
+    Liabilities:Loans:Student                $197.00
+    Expenses:Interest:Student                 $12.42
+    Assets:Checking
+
+2009/11/09 * Panda Express
+    Expenses:Food:Lunch                        $7.30
+    Assets:Checking
+
+2009/11/10 * Safeway
+    Expenses:Food:Groceries                   $28.03
+    Assets:Checking
+
+2009/11/10 * Panda Express
+    Expenses:Food:Lunch                       $10.62
+    Assets:Checking
+
+2009/11/12 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.70
+    Assets:Checking
+
+2009/11/12 * Food Carts
+    Expenses:Food:Lunch                       $13.49
+    Assets:Checking
+
+2009/11/13 * Panda Express
+    Expenses:Food:Lunch                        $9.76
+    Assets:Checking
+
+2009/11/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2009/11/14 * Papa Hayden
+    Expenses:Food:Dinner                      $50.17
+    Assets:Checking
+
+2009/11/16 * Mio Sushi
+    Expenses:Food:Lunch                       $17.93
+    Assets:Checking
+
+2009/11/16 * Pacific Power
+    Expenses:Utils:Electric                   $53.72
+    Assets:Checking
+
+2009/11/17 * Safeway
+    Expenses:Food:Groceries                   $59.84
+    Assets:Checking
+
+2009/11/18 * Mio Sushi
+    Expenses:Food:Lunch                        $5.73
+    Assets:Checking
+
+2009/11/18 * NW Natural
+    Expenses:Utils:Gas                        $57.53
+    Assets:Checking
+
+2009/11/19 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.62
+    Assets:Checking
+
+2009/11/21 * McMennemin's
+    Expenses:Food:Dinner                      $39.87
+    Assets:Checking
+
+2009/11/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/11/23 * Food Carts
+    Expenses:Food:Lunch                        $6.24
+    Assets:Checking
+
+2009/11/24 * Fred Meyer
+    Expenses:Food:Groceries                   $56.23
+    Assets:Checking
+
+2009/11/25 * Sizzle Pie
+    Expenses:Food:Lunch                       $10.01
+    Assets:Checking
+
+2009/11/26 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.40
+    Assets:Checking
+
+2009/11/26 * Food Carts
+    Expenses:Food:Lunch                        $9.95
+    Assets:Checking
+
+2009/11/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2009/11/30 * Taco Del Mar
+    Expenses:Food:Lunch                        $5.07
+    Assets:Checking
+
+2009/12/01 * New Seasons
+    Expenses:Food:Groceries                  $113.40
+    Assets:Checking
+
+2009/12/01 * Panda Express
+    Expenses:Food:Lunch                        $5.58
+    Assets:Checking
+
+2009/12/02 * Food Carts
+    Expenses:Food:Lunch                        $8.99
+    Assets:Checking
+
+2009/12/03 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.40
+    Assets:Checking
+
+2009/12/03 * Eddie's Flat Iron Pizza
+    Expenses:Food:Dinner                      $22.01
+    Assets:Checking
+
+2009/12/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/12/08 * Safeway
+    Expenses:Food:Groceries                   $68.39
+    Assets:Checking
+
+2009/12/08 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.83
+    Assets:Checking
+
+2009/12/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2009/12/08 * Car Payment
+    Liabilities:Loans:Car                    $353.38
+    Expenses:Interest:Car                    $111.55
+    Assets:Checking
+
+2009/12/08 * Student Loan Payment
+    Liabilities:Loans:Student                $188.73
+    Expenses:Interest:Student                 $14.34
+    Assets:Checking
+
+2009/12/10 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.75
+    Assets:Checking
+
+2009/12/10 * Panda Express
+    Expenses:Food:Lunch                        $6.32
+    Assets:Checking
+
+2009/12/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2009/12/15 * Fred Meyer
+    Expenses:Food:Groceries                   $52.60
+    Assets:Checking
+
+2009/12/16 * Sizzle Pie
+    Expenses:Food:Lunch                       $11.60
+    Assets:Checking
+
+2009/12/16 * Pacific Power
+    Expenses:Utils:Electric                   $52.84
+    Assets:Checking
+
+2009/12/17 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.39
+    Assets:Checking
+
+2009/12/17 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.34
+    Assets:Checking
+
+2009/12/18 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.79
+    Assets:Checking
+
+2009/12/18 * NW Natural
+    Expenses:Utils:Gas                        $55.12
+    Assets:Checking
+
+2009/12/21 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.72
+    Assets:Checking
+
+2009/12/22 * Safeway
+    Expenses:Food:Groceries                   $58.08
+    Assets:Checking
+
+2009/12/22 * Mio Sushi
+    Expenses:Food:Lunch                        $7.22
+    Assets:Checking
+
+2009/12/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2009/12/23 * Taco Del Mar
+    Expenses:Food:Lunch                       $11.28
+    Assets:Checking
+
+2009/12/24 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.48
+    Assets:Checking
+
+2009/12/24 * Panda Express
+    Expenses:Food:Lunch                        $9.59
+    Assets:Checking
+
+2009/12/24 * Papa John's
+    Expenses:Food:Dinner                      $22.28
+    Assets:Checking
+
+2009/12/25 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.91
+    Assets:Checking
+
+2009/12/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2009/12/29 * Safeway
+    Expenses:Food:Groceries                   $53.11
+    Assets:Checking
+
+2009/12/29 * Panda Express
+    Expenses:Food:Lunch                        $5.87
+    Assets:Checking
+
+2009/12/30 * Food Carts
+    Expenses:Food:Lunch                       $11.77
+    Assets:Checking
+
+2009/12/31 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.41
+    Assets:Checking
+
+2009/12/31 * Mio Sushi
+    Expenses:Food:Lunch                        $6.07
+    Assets:Checking
+
+2010/01/01 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.48
+    Assets:Checking
+
+2010/01/04 * Mio Sushi
+    Expenses:Food:Lunch                        $9.00
+    Assets:Checking
+
+2010/01/05 * Safeway
+    Expenses:Food:Groceries                   $46.58
+    Assets:Checking
+
+2010/01/05 * Food Carts
+    Expenses:Food:Lunch                        $9.52
+    Assets:Checking
+
+2010/01/07 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.40
+    Assets:Checking
+
+2010/01/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/01/08 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.98
+    Assets:Checking
+
+2010/01/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2010/01/08 * Car Payment
+    Liabilities:Loans:Car                    $357.59
+    Expenses:Interest:Car                    $113.89
+    Assets:Checking
+
+2010/01/08 * Student Loan Payment
+    Liabilities:Loans:Student                $195.07
+    Expenses:Interest:Student                 $14.18
+    Assets:Checking
+
+2010/01/10 * Eddie's Flat Iron Pizza
+    Expenses:Food:Dinner                      $20.88
+    Assets:Checking
+
+2010/01/11 * Panda Express
+    Expenses:Food:Lunch                        $5.68
+    Assets:Checking
+
+2010/01/12 * Fred Meyer
+    Expenses:Food:Groceries                  $107.27
+    Assets:Checking
+
+2010/01/12 * Sizzle Pie
+    Expenses:Food:Lunch                        $5.87
+    Assets:Checking
+
+2010/01/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2010/01/14 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.56
+    Assets:Checking
+
+2010/01/14 * Panda Express
+    Expenses:Food:Lunch                        $6.06
+    Assets:Checking
+
+2010/01/15 * Food Carts
+    Expenses:Food:Lunch                        $7.78
+    Assets:Checking
+
+2010/01/16 * Pacific Power
+    Expenses:Utils:Electric                   $55.54
+    Assets:Checking
+
+2010/01/18 * NW Natural
+    Expenses:Utils:Gas                        $57.51
+    Assets:Checking
+
+2010/01/19 * Fred Meyer
+    Expenses:Food:Groceries                  $102.76
+    Assets:Checking
+
+2010/01/19 * Food Carts
+    Expenses:Food:Lunch                        $7.20
+    Assets:Checking
+
+2010/01/20 * Panda Express
+    Expenses:Food:Lunch                        $7.45
+    Assets:Checking
+
+2010/01/21 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.56
+    Assets:Checking
+
+2010/01/22 * Taco Del Mar
+    Expenses:Food:Lunch                       $15.01
+    Assets:Checking
+
+2010/01/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/01/25 * Panda Express
+    Expenses:Food:Lunch                       $15.62
+    Assets:Checking
+
+2010/01/26 * Safeway
+    Expenses:Food:Groceries                   $84.25
+    Assets:Checking
+
+2010/01/26 * Sizzle Pie
+    Expenses:Food:Lunch                       $13.16
+    Assets:Checking
+
+2010/01/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2010/01/28 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.50
+    Assets:Checking
+
+2010/01/28 * Sizzle Pie
+    Expenses:Food:Lunch                       $11.42
+    Assets:Checking
+
+2010/01/29 * Sizzle Pie
+    Expenses:Food:Lunch                       $12.40
+    Assets:Checking
+
+2010/02/01 * Sizzle Pie
+    Expenses:Food:Lunch                       $14.29
+    Assets:Checking
+
+2010/02/02 * Safeway
+    Expenses:Food:Groceries                   $82.90
+    Assets:Checking
+
+2010/02/03 * Mio Sushi
+    Expenses:Food:Lunch                        $6.35
+    Assets:Checking
+
+2010/02/04 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.48
+    Assets:Checking
+
+2010/02/04 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.87
+    Assets:Checking
+
+2010/02/04 * Papa John's
+    Expenses:Food:Dinner                      $23.32
+    Assets:Checking
+
+2010/02/05 * Old Town Pizza
+    Expenses:Food:Dinner                      $33.97
+    Assets:Checking
+
+2010/02/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/02/08 * Taco Del Mar
+    Expenses:Food:Lunch                        $8.73
+    Assets:Checking
+
+2010/02/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2010/02/08 * Car Payment
+    Liabilities:Loans:Car                    $359.04
+    Expenses:Interest:Car                    $106.33
+    Assets:Checking
+
+2010/02/08 * Student Loan Payment
+    Liabilities:Loans:Student                $197.79
+    Expenses:Interest:Student                 $13.97
+    Assets:Checking
+
+2010/02/09 * Safeway
+    Expenses:Food:Groceries                   $61.45
+    Assets:Checking
+
+2010/02/09 * Food Carts
+    Expenses:Food:Lunch                       $11.10
+    Assets:Checking
+
+2010/02/11 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.28
+    Assets:Checking
+
+2010/02/11 * Panda Express
+    Expenses:Food:Lunch                        $6.28
+    Assets:Checking
+
+2010/02/12 * Food Carts
+    Expenses:Food:Lunch                       $12.11
+    Assets:Checking
+
+2010/02/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2010/02/16 * Safeway
+    Expenses:Food:Groceries                   $86.65
+    Assets:Checking
+
+2010/02/16 * Food Carts
+    Expenses:Food:Lunch                        $8.82
+    Assets:Checking
+
+2010/02/16 * Pacific Power
+    Expenses:Utils:Electric                   $57.47
+    Assets:Checking
+
+2010/02/17 * Panda Express
+    Expenses:Food:Lunch                       $13.74
+    Assets:Checking
+
+2010/02/18 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.33
+    Assets:Checking
+
+2010/02/18 * Taco Del Mar
+    Expenses:Food:Lunch                       $13.61
+    Assets:Checking
+
+2010/02/18 * NW Natural
+    Expenses:Utils:Gas                        $57.09
+    Assets:Checking
+
+2010/02/22 * Taco Del Mar
+    Expenses:Food:Lunch                       $15.35
+    Assets:Checking
+
+2010/02/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/02/23 * Safeway
+    Expenses:Food:Groceries                   $55.00
+    Assets:Checking
+
+2010/02/24 * Sizzle Pie
+    Expenses:Food:Lunch                       $12.83
+    Assets:Checking
+
+2010/02/25 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.46
+    Assets:Checking
+
+2010/02/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2010/03/01 * Food Carts
+    Expenses:Food:Lunch                        $6.81
+    Assets:Checking
+
+2010/03/02 * Safeway
+    Expenses:Food:Groceries                   $60.77
+    Assets:Checking
+
+2010/03/03 * Mio Sushi
+    Expenses:Food:Lunch                       $11.38
+    Assets:Checking
+
+2010/03/04 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.47
+    Assets:Checking
+
+2010/03/05 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.88
+    Assets:Checking
+
+2010/03/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/03/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2010/03/08 * Car Payment
+    Liabilities:Loans:Car                    $356.40
+    Expenses:Interest:Car                    $109.90
+    Assets:Checking
+
+2010/03/08 * Student Loan Payment
+    Liabilities:Loans:Student                $186.61
+    Expenses:Interest:Student                 $12.29
+    Assets:Checking
+
+2010/03/09 * Safeway
+    Expenses:Food:Groceries                   $38.79
+    Assets:Checking
+
+2010/03/10 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.88
+    Assets:Checking
+
+2010/03/11 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.42
+    Assets:Checking
+
+2010/03/11 * Food Carts
+    Expenses:Food:Lunch                        $7.44
+    Assets:Checking
+
+2010/03/12 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.10
+    Assets:Checking
+
+2010/03/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2010/03/13 * Tanuki
+    Expenses:Food:Dinner                      $21.18
+    Assets:Checking
+
+2010/03/15 * Panda Express
+    Expenses:Food:Lunch                       $12.35
+    Assets:Checking
+
+2010/03/16 * New Seasons
+    Expenses:Food:Groceries                   $69.66
+    Assets:Checking
+
+2010/03/16 * Pacific Power
+    Expenses:Utils:Electric                   $56.49
+    Assets:Checking
+
+2010/03/17 * Taco Del Mar
+    Expenses:Food:Lunch                       $15.64
+    Assets:Checking
+
+2010/03/18 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.39
+    Assets:Checking
+
+2010/03/18 * NW Natural
+    Expenses:Utils:Gas                        $56.18
+    Assets:Checking
+
+2010/03/22 * Sizzle Pie
+    Expenses:Food:Lunch                       $11.48
+    Assets:Checking
+
+2010/03/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/03/23 * Fred Meyer
+    Expenses:Food:Groceries                   $53.24
+    Assets:Checking
+
+2010/03/23 * Panda Express
+    Expenses:Food:Lunch                       $15.05
+    Assets:Checking
+
+2010/03/24 * Food Carts
+    Expenses:Food:Lunch                        $8.03
+    Assets:Checking
+
+2010/03/25 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.49
+    Assets:Checking
+
+2010/03/25 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.02
+    Assets:Checking
+
+2010/03/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2010/03/27 * Mio Sushi
+    Expenses:Food:Dinner                      $41.29
+    Assets:Checking
+
+2010/03/29 * Mio Sushi
+    Expenses:Food:Lunch                       $11.38
+    Assets:Checking
+
+2010/03/30 * New Seasons
+    Expenses:Food:Groceries                   $67.12
+    Assets:Checking
+
+2010/03/30 * Panda Express
+    Expenses:Food:Lunch                        $7.79
+    Assets:Checking
+
+2010/03/31 * Sizzle Pie
+    Expenses:Food:Lunch                       $10.28
+    Assets:Checking
+
+2010/04/01 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.54
+    Assets:Checking
+
+2010/04/02 * Taco Del Mar
+    Expenses:Food:Lunch                       $13.45
+    Assets:Checking
+
+2010/04/03 * Apizza Scholls
+    Expenses:Food:Dinner                      $68.22
+    Assets:Checking
+
+2010/04/06 * New Seasons
+    Expenses:Food:Groceries                   $42.93
+    Assets:Checking
+
+2010/04/06 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.73
+    Assets:Checking
+
+2010/04/07 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.14
+    Assets:Checking
+
+2010/04/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/04/08 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.61
+    Assets:Checking
+
+2010/04/08 * Panda Express
+    Expenses:Food:Lunch                       $10.35
+    Assets:Checking
+
+2010/04/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2010/04/08 * Car Payment
+    Liabilities:Loans:Car                    $359.51
+    Expenses:Interest:Car                    $115.50
+    Assets:Checking
+
+2010/04/08 * Student Loan Payment
+    Liabilities:Loans:Student                $182.08
+    Expenses:Interest:Student                 $14.25
+    Assets:Checking
+
+2010/04/13 * Fred Meyer
+    Expenses:Food:Groceries                   $37.09
+    Assets:Checking
+
+2010/04/13 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.12
+    Assets:Checking
+
+2010/04/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2010/04/14 * Panda Express
+    Expenses:Food:Lunch                        $6.96
+    Assets:Checking
+
+2010/04/15 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.35
+    Assets:Checking
+
+2010/04/16 * Panda Express
+    Expenses:Food:Lunch                        $5.97
+    Assets:Checking
+
+2010/04/16 * Pacific Power
+    Expenses:Utils:Electric                   $53.82
+    Assets:Checking
+
+2010/04/18 * NW Natural
+    Expenses:Utils:Gas                        $52.95
+    Assets:Checking
+
+2010/04/18 * Eddie's Flat Iron Pizza
+    Expenses:Food:Dinner                      $22.74
+    Assets:Checking
+
+2010/04/19 * Mio Sushi
+    Expenses:Food:Lunch                        $5.85
+    Assets:Checking
+
+2010/04/20 * New Seasons
+    Expenses:Food:Groceries                   $52.18
+    Assets:Checking
+
+2010/04/20 * Sizzle Pie
+    Expenses:Food:Lunch                       $14.56
+    Assets:Checking
+
+2010/04/21 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.50
+    Assets:Checking
+
+2010/04/22 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.50
+    Assets:Checking
+
+2010/04/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/04/24 * Apizza Scholls
+    Expenses:Food:Dinner                      $41.59
+    Assets:Checking
+
+2010/04/26 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.06
+    Assets:Checking
+
+2010/04/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2010/04/27 * Safeway
+    Expenses:Food:Groceries                   $79.09
+    Assets:Checking
+
+2010/04/27 * Mio Sushi
+    Expenses:Food:Lunch                       $13.90
+    Assets:Checking
+
+2010/04/28 * Panda Express
+    Expenses:Food:Lunch                        $8.51
+    Assets:Checking
+
+2010/04/29 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.34
+    Assets:Checking
+
+2010/05/04 * Fred Meyer
+    Expenses:Food:Groceries                   $60.56
+    Assets:Checking
+
+2010/05/06 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.44
+    Assets:Checking
+
+2010/05/06 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.49
+    Assets:Checking
+
+2010/05/07 * McMennemin's
+    Expenses:Food:Dinner                      $44.99
+    Assets:Checking
+
+2010/05/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/05/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2010/05/08 * Car Payment
+    Liabilities:Loans:Car                    $354.86
+    Expenses:Interest:Car                    $117.56
+    Assets:Checking
+
+2010/05/08 * Student Loan Payment
+    Liabilities:Loans:Student                $190.14
+    Expenses:Interest:Student                 $12.19
+    Assets:Checking
+
+2010/05/10 * Sizzle Pie
+    Expenses:Food:Lunch                       $13.64
+    Assets:Checking
+
+2010/05/11 * New Seasons
+    Expenses:Food:Groceries                   $42.14
+    Assets:Checking
+
+2010/05/13 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.27
+    Assets:Checking
+
+2010/05/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2010/05/14 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.54
+    Assets:Checking
+
+2010/05/14 * Tanuki
+    Expenses:Food:Dinner                      $36.25
+    Assets:Checking
+
+2010/05/16 * Pacific Power
+    Expenses:Utils:Electric                   $55.95
+    Assets:Checking
+
+2010/05/17 * Panda Express
+    Expenses:Food:Lunch                        $8.12
+    Assets:Checking
+
+2010/05/18 * Fred Meyer
+    Expenses:Food:Groceries                   $70.43
+    Assets:Checking
+
+2010/05/18 * Sizzle Pie
+    Expenses:Food:Lunch                       $10.67
+    Assets:Checking
+
+2010/05/18 * NW Natural
+    Expenses:Utils:Gas                        $56.36
+    Assets:Checking
+
+2010/05/20 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.58
+    Assets:Checking
+
+2010/05/20 * Sizzle Pie
+    Expenses:Food:Lunch                        $5.47
+    Assets:Checking
+
+2010/05/21 * McMennemin's
+    Expenses:Food:Dinner                      $18.83
+    Assets:Checking
+
+2010/05/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/05/23 * Papa John's
+    Expenses:Food:Dinner                      $21.97
+    Assets:Checking
+
+2010/05/24 * Panda Express
+    Expenses:Food:Lunch                       $13.57
+    Assets:Checking
+
+2010/05/25 * Safeway
+    Expenses:Food:Groceries                   $68.69
+    Assets:Checking
+
+2010/05/26 * Mio Sushi
+    Expenses:Food:Lunch                       $17.69
+    Assets:Checking
+
+2010/05/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2010/05/27 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.32
+    Assets:Checking
+
+2010/05/28 * Tanuki
+    Expenses:Food:Dinner                      $23.90
+    Assets:Checking
+
+2010/05/31 * Mio Sushi
+    Expenses:Food:Lunch                        $8.54
+    Assets:Checking
+
+2010/06/01 * New Seasons
+    Expenses:Food:Groceries                   $45.81
+    Assets:Checking
+
+2010/06/01 * Taco Del Mar
+    Expenses:Food:Lunch                        $5.66
+    Assets:Checking
+
+2010/06/02 * Mio Sushi
+    Expenses:Food:Lunch                       $14.05
+    Assets:Checking
+
+2010/06/03 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.50
+    Assets:Checking
+
+2010/06/03 * Panda Express
+    Expenses:Food:Lunch                       $17.85
+    Assets:Checking
+
+2010/06/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/06/08 * Safeway
+    Expenses:Food:Groceries                   $66.30
+    Assets:Checking
+
+2010/06/08 * Food Carts
+    Expenses:Food:Lunch                       $19.63
+    Assets:Checking
+
+2010/06/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2010/06/08 * Car Payment
+    Liabilities:Loans:Car                    $355.65
+    Expenses:Interest:Car                    $111.54
+    Assets:Checking
+
+2010/06/08 * Student Loan Payment
+    Liabilities:Loans:Student                $184.90
+    Expenses:Interest:Student                 $11.31
+    Assets:Checking
+
+2010/06/10 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.59
+    Assets:Checking
+
+2010/06/12 * Pambiche
+    Expenses:Food:Dinner                      $32.62
+    Assets:Checking
+
+2010/06/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2010/06/15 * Safeway
+    Expenses:Food:Groceries                   $65.90
+    Assets:Checking
+
+2010/06/15 * Taco Del Mar
+    Expenses:Food:Lunch                        $5.97
+    Assets:Checking
+
+2010/06/16 * Panda Express
+    Expenses:Food:Lunch                        $7.11
+    Assets:Checking
+
+2010/06/16 * Pacific Power
+    Expenses:Utils:Electric                   $57.64
+    Assets:Checking
+
+2010/06/17 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.51
+    Assets:Checking
+
+2010/06/17 * Food Carts
+    Expenses:Food:Lunch                        $6.93
+    Assets:Checking
+
+2010/06/17 * Papa John's
+    Expenses:Food:Dinner                      $21.41
+    Assets:Checking
+
+2010/06/18 * NW Natural
+    Expenses:Utils:Gas                        $53.24
+    Assets:Checking
+
+2010/06/22 * Safeway
+    Expenses:Food:Groceries                   $72.19
+    Assets:Checking
+
+2010/06/22 * Mio Sushi
+    Expenses:Food:Lunch                       $17.30
+    Assets:Checking
+
+2010/06/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/06/24 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.49
+    Assets:Checking
+
+2010/06/24 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.51
+    Assets:Checking
+
+2010/06/25 * Taco Del Mar
+    Expenses:Food:Lunch                       $16.61
+    Assets:Checking
+
+2010/06/25 * Tanuki
+    Expenses:Food:Dinner                      $17.76
+    Assets:Checking
+
+2010/06/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2010/06/28 * Food Carts
+    Expenses:Food:Lunch                       $15.82
+    Assets:Checking
+
+2010/06/29 * New Seasons
+    Expenses:Food:Groceries                   $66.47
+    Assets:Checking
+
+2010/06/30 * Sizzle Pie
+    Expenses:Food:Lunch                       $12.82
+    Assets:Checking
+
+2010/07/01 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.56
+    Assets:Checking
+
+2010/07/02 * Panda Express
+    Expenses:Food:Lunch                       $14.09
+    Assets:Checking
+
+2010/07/02 * Papa Hayden
+    Expenses:Food:Dinner                      $47.11
+    Assets:Checking
+
+2010/07/04 * Eddie's Flat Iron Pizza
+    Expenses:Food:Dinner                      $21.51
+    Assets:Checking
+
+2010/07/05 * Sizzle Pie
+    Expenses:Food:Lunch                        $6.73
+    Assets:Checking
+
+2010/07/06 * New Seasons
+    Expenses:Food:Groceries                   $49.44
+    Assets:Checking
+
+2010/07/06 * Panda Express
+    Expenses:Food:Lunch                       $10.48
+    Assets:Checking
+
+2010/07/07 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.73
+    Assets:Checking
+
+2010/07/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/07/08 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.51
+    Assets:Checking
+
+2010/07/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2010/07/08 * Car Payment
+    Liabilities:Loans:Car                    $350.88
+    Expenses:Interest:Car                    $109.02
+    Assets:Checking
+
+2010/07/08 * Student Loan Payment
+    Liabilities:Loans:Student                $189.68
+    Expenses:Interest:Student                 $12.39
+    Assets:Checking
+
+2010/07/09 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.87
+    Assets:Checking
+
+2010/07/12 * Sizzle Pie
+    Expenses:Food:Lunch                        $5.58
+    Assets:Checking
+
+2010/07/13 * New Seasons
+    Expenses:Food:Groceries                   $75.49
+    Assets:Checking
+
+2010/07/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2010/07/14 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.52
+    Assets:Checking
+
+2010/07/15 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.43
+    Assets:Checking
+
+2010/07/15 * Sizzle Pie
+    Expenses:Food:Lunch                       $11.27
+    Assets:Checking
+
+2010/07/16 * Food Carts
+    Expenses:Food:Lunch                       $13.60
+    Assets:Checking
+
+2010/07/16 * Pacific Power
+    Expenses:Utils:Electric                   $53.91
+    Assets:Checking
+
+2010/07/17 * Pambiche
+    Expenses:Food:Dinner                      $51.38
+    Assets:Checking
+
+2010/07/18 * NW Natural
+    Expenses:Utils:Gas                        $56.42
+    Assets:Checking
+
+2010/07/19 * Panda Express
+    Expenses:Food:Lunch                       $15.35
+    Assets:Checking
+
+2010/07/20 * Safeway
+    Expenses:Food:Groceries                   $39.61
+    Assets:Checking
+
+2010/07/20 * Mio Sushi
+    Expenses:Food:Lunch                       $12.56
+    Assets:Checking
+
+2010/07/21 * Sizzle Pie
+    Expenses:Food:Lunch                       $14.39
+    Assets:Checking
+
+2010/07/22 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.44
+    Assets:Checking
+
+2010/07/22 * Panda Express
+    Expenses:Food:Lunch                        $5.47
+    Assets:Checking
+
+2010/07/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/07/23 * Mio Sushi
+    Expenses:Food:Lunch                        $8.65
+    Assets:Checking
+
+2010/07/26 * Food Carts
+    Expenses:Food:Lunch                       $13.42
+    Assets:Checking
+
+2010/07/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2010/07/27 * New Seasons
+    Expenses:Food:Groceries                   $37.75
+    Assets:Checking
+
+2010/07/27 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.49
+    Assets:Checking
+
+2010/07/28 * Panda Express
+    Expenses:Food:Lunch                        $9.51
+    Assets:Checking
+
+2010/07/29 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.38
+    Assets:Checking
+
+2010/07/30 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.08
+    Assets:Checking
+
+2010/08/03 * Fred Meyer
+    Expenses:Food:Groceries                   $81.15
+    Assets:Checking
+
+2010/08/03 * Mio Sushi
+    Expenses:Food:Lunch                       $13.28
+    Assets:Checking
+
+2010/08/05 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.48
+    Assets:Checking
+
+2010/08/05 * Panda Express
+    Expenses:Food:Lunch                       $11.52
+    Assets:Checking
+
+2010/08/06 * Food Carts
+    Expenses:Food:Lunch                       $11.97
+    Assets:Checking
+
+2010/08/06 * Tastebud
+    Expenses:Food:Dinner                      $29.13
+    Assets:Checking
+
+2010/08/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/08/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2010/08/08 * Car Payment
+    Liabilities:Loans:Car                    $353.69
+    Expenses:Interest:Car                    $103.48
+    Assets:Checking
+
+2010/08/08 * Student Loan Payment
+    Liabilities:Loans:Student                $185.90
+    Expenses:Interest:Student                 $13.19
+    Assets:Checking
+
+2010/08/09 * Taco Del Mar
+    Expenses:Food:Lunch                        $8.69
+    Assets:Checking
+
+2010/08/10 * Safeway
+    Expenses:Food:Groceries                   $62.63
+    Assets:Checking
+
+2010/08/10 * Mio Sushi
+    Expenses:Food:Lunch                       $11.99
+    Assets:Checking
+
+2010/08/12 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.54
+    Assets:Checking
+
+2010/08/12 * Panda Express
+    Expenses:Food:Lunch                       $11.41
+    Assets:Checking
+
+2010/08/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2010/08/16 * Panda Express
+    Expenses:Food:Lunch                       $14.36
+    Assets:Checking
+
+2010/08/16 * Pacific Power
+    Expenses:Utils:Electric                   $56.39
+    Assets:Checking
+
+2010/08/17 * Fred Meyer
+    Expenses:Food:Groceries                   $68.39
+    Assets:Checking
+
+2010/08/17 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.63
+    Assets:Checking
+
+2010/08/18 * NW Natural
+    Expenses:Utils:Gas                        $53.41
+    Assets:Checking
+
+2010/08/19 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.48
+    Assets:Checking
+
+2010/08/20 * Mio Sushi
+    Expenses:Food:Lunch                        $6.08
+    Assets:Checking
+
+2010/08/21 * Tanuki
+    Expenses:Food:Dinner                      $32.36
+    Assets:Checking
+
+2010/08/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/08/24 * New Seasons
+    Expenses:Food:Groceries                   $49.95
+    Assets:Checking
+
+2010/08/24 * Food Carts
+    Expenses:Food:Lunch                        $6.77
+    Assets:Checking
+
+2010/08/26 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.47
+    Assets:Checking
+
+2010/08/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2010/08/31 * Fred Meyer
+    Expenses:Food:Groceries                   $70.30
+    Assets:Checking
+
+2010/08/31 * Sizzle Pie
+    Expenses:Food:Lunch                       $14.69
+    Assets:Checking
+
+2010/09/01 * Taco Del Mar
+    Expenses:Food:Lunch                       $13.75
+    Assets:Checking
+
+2010/09/02 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.42
+    Assets:Checking
+
+2010/09/02 * Mio Sushi
+    Expenses:Food:Lunch                        $6.63
+    Assets:Checking
+
+2010/09/03 * Panda Express
+    Expenses:Food:Lunch                        $7.76
+    Assets:Checking
+
+2010/09/03 * McMennemin's
+    Expenses:Food:Dinner                      $36.64
+    Assets:Checking
+
+2010/09/04 * Papa Hayden
+    Expenses:Food:Dinner                      $51.10
+    Assets:Checking
+
+2010/09/07 * New Seasons
+    Expenses:Food:Groceries                   $69.00
+    Assets:Checking
+
+2010/09/07 * Panda Express
+    Expenses:Food:Lunch                        $9.74
+    Assets:Checking
+
+2010/09/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/09/08 * Mio Sushi
+    Expenses:Food:Lunch                        $9.74
+    Assets:Checking
+
+2010/09/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2010/09/08 * Car Payment
+    Liabilities:Loans:Car                    $351.88
+    Expenses:Interest:Car                    $113.31
+    Assets:Checking
+
+2010/09/08 * Student Loan Payment
+    Liabilities:Loans:Student                $191.28
+    Expenses:Interest:Student                 $12.45
+    Assets:Checking
+
+2010/09/09 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.55
+    Assets:Checking
+
+2010/09/10 * Food Carts
+    Expenses:Food:Lunch                        $6.40
+    Assets:Checking
+
+2010/09/13 * Taco Del Mar
+    Expenses:Food:Lunch                       $10.34
+    Assets:Checking
+
+2010/09/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2010/09/14 * Fred Meyer
+    Expenses:Food:Groceries                   $50.31
+    Assets:Checking
+
+2010/09/15 * Taco Del Mar
+    Expenses:Food:Lunch                       $14.66
+    Assets:Checking
+
+2010/09/16 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.21
+    Assets:Checking
+
+2010/09/16 * Pacific Power
+    Expenses:Utils:Electric                   $58.06
+    Assets:Checking
+
+2010/09/17 * Mio Sushi
+    Expenses:Food:Lunch                        $7.23
+    Assets:Checking
+
+2010/09/17 * Tanuki
+    Expenses:Food:Dinner                      $20.19
+    Assets:Checking
+
+2010/09/18 * NW Natural
+    Expenses:Utils:Gas                        $53.69
+    Assets:Checking
+
+2010/09/18 * McMennemin's
+    Expenses:Food:Dinner                      $52.58
+    Assets:Checking
+
+2010/09/20 * Panda Express
+    Expenses:Food:Lunch                       $13.56
+    Assets:Checking
+
+2010/09/21 * New Seasons
+    Expenses:Food:Groceries                   $92.16
+    Assets:Checking
+
+2010/09/21 * Sizzle Pie
+    Expenses:Food:Lunch                        $6.35
+    Assets:Checking
+
+2010/09/22 * Panda Express
+    Expenses:Food:Lunch                        $7.65
+    Assets:Checking
+
+2010/09/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/09/23 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.43
+    Assets:Checking
+
+2010/09/24 * Pambiche
+    Expenses:Food:Dinner                      $43.55
+    Assets:Checking
+
+2010/09/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2010/09/27 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.44
+    Assets:Checking
+
+2010/09/28 * Safeway
+    Expenses:Food:Groceries                   $67.28
+    Assets:Checking
+
+2010/09/28 * Panda Express
+    Expenses:Food:Lunch                        $9.33
+    Assets:Checking
+
+2010/09/29 * Mio Sushi
+    Expenses:Food:Lunch                       $14.95
+    Assets:Checking
+
+2010/09/30 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.60
+    Assets:Checking
+
+2010/09/30 * Mio Sushi
+    Expenses:Food:Lunch                        $7.10
+    Assets:Checking
+
+2010/10/04 * Taco Del Mar
+    Expenses:Food:Lunch                        $8.45
+    Assets:Checking
+
+2010/10/05 * Safeway
+    Expenses:Food:Groceries                   $87.13
+    Assets:Checking
+
+2010/10/06 * Mio Sushi
+    Expenses:Food:Lunch                        $7.73
+    Assets:Checking
+
+2010/10/07 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.70
+    Assets:Checking
+
+2010/10/07 * Sizzle Pie
+    Expenses:Food:Lunch                       $11.38
+    Assets:Checking
+
+2010/10/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/10/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2010/10/08 * Car Payment
+    Liabilities:Loans:Car                    $352.78
+    Expenses:Interest:Car                    $111.36
+    Assets:Checking
+
+2010/10/08 * Student Loan Payment
+    Liabilities:Loans:Student                $185.17
+    Expenses:Interest:Student                 $12.36
+    Assets:Checking
+
+2010/10/10 * Eddie's Flat Iron Pizza
+    Expenses:Food:Dinner                      $22.71
+    Assets:Checking
+
+2010/10/11 * Mio Sushi
+    Expenses:Food:Lunch                       $15.81
+    Assets:Checking
+
+2010/10/12 * Safeway
+    Expenses:Food:Groceries                   $55.42
+    Assets:Checking
+
+2010/10/12 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.26
+    Assets:Checking
+
+2010/10/13 * Sizzle Pie
+    Expenses:Food:Lunch                       $18.51
+    Assets:Checking
+
+2010/10/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2010/10/14 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.57
+    Assets:Checking
+
+2010/10/14 * Panda Express
+    Expenses:Food:Lunch                        $5.58
+    Assets:Checking
+
+2010/10/15 * Panda Express
+    Expenses:Food:Lunch                        $6.34
+    Assets:Checking
+
+2010/10/16 * Pacific Power
+    Expenses:Utils:Electric                   $55.78
+    Assets:Checking
+
+2010/10/18 * NW Natural
+    Expenses:Utils:Gas                        $59.01
+    Assets:Checking
+
+2010/10/19 * New Seasons
+    Expenses:Food:Groceries                   $48.68
+    Assets:Checking
+
+2010/10/19 * Taco Del Mar
+    Expenses:Food:Lunch                       $17.34
+    Assets:Checking
+
+2010/10/20 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.82
+    Assets:Checking
+
+2010/10/21 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.39
+    Assets:Checking
+
+2010/10/21 * Mio Sushi
+    Expenses:Food:Lunch                       $12.03
+    Assets:Checking
+
+2010/10/22 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.90
+    Assets:Checking
+
+2010/10/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/10/23 * Apizza Scholls
+    Expenses:Food:Dinner                      $18.15
+    Assets:Checking
+
+2010/10/25 * Panda Express
+    Expenses:Food:Lunch                       $14.98
+    Assets:Checking
+
+2010/10/26 * Safeway
+    Expenses:Food:Groceries                   $75.79
+    Assets:Checking
+
+2010/10/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2010/10/27 * Food Carts
+    Expenses:Food:Lunch                        $7.12
+    Assets:Checking
+
+2010/10/28 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.38
+    Assets:Checking
+
+2010/10/29 * Panda Express
+    Expenses:Food:Lunch                        $9.75
+    Assets:Checking
+
+2010/11/02 * New Seasons
+    Expenses:Food:Groceries                   $48.19
+    Assets:Checking
+
+2010/11/03 * Sizzle Pie
+    Expenses:Food:Lunch                       $13.60
+    Assets:Checking
+
+2010/11/04 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.61
+    Assets:Checking
+
+2010/11/04 * Panda Express
+    Expenses:Food:Lunch                       $15.34
+    Assets:Checking
+
+2010/11/05 * Sizzle Pie
+    Expenses:Food:Lunch                        $6.89
+    Assets:Checking
+
+2010/11/07 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/11/08 * Sizzle Pie
+    Expenses:Food:Lunch                       $10.26
+    Assets:Checking
+
+2010/11/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2010/11/08 * Car Payment
+    Liabilities:Loans:Car                    $355.16
+    Expenses:Interest:Car                    $116.97
+    Assets:Checking
+
+2010/11/08 * Student Loan Payment
+    Liabilities:Loans:Student                $194.81
+    Expenses:Interest:Student                 $12.20
+    Assets:Checking
+
+2010/11/09 * Fred Meyer
+    Expenses:Food:Groceries                   $46.72
+    Assets:Checking
+
+2010/11/09 * Food Carts
+    Expenses:Food:Lunch                       $12.71
+    Assets:Checking
+
+2010/11/10 * Sizzle Pie
+    Expenses:Food:Lunch                       $10.88
+    Assets:Checking
+
+2010/11/11 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.60
+    Assets:Checking
+
+2010/11/12 * Taco Del Mar
+    Expenses:Food:Lunch                       $12.25
+    Assets:Checking
+
+2010/11/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2010/11/15 * Food Carts
+    Expenses:Food:Lunch                        $7.35
+    Assets:Checking
+
+2010/11/16 * Fred Meyer
+    Expenses:Food:Groceries                   $46.11
+    Assets:Checking
+
+2010/11/16 * Panda Express
+    Expenses:Food:Lunch                       $14.48
+    Assets:Checking
+
+2010/11/16 * Pacific Power
+    Expenses:Utils:Electric                   $55.75
+    Assets:Checking
+
+2010/11/18 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.52
+    Assets:Checking
+
+2010/11/18 * NW Natural
+    Expenses:Utils:Gas                        $59.38
+    Assets:Checking
+
+2010/11/19 * Apizza Scholls
+    Expenses:Food:Dinner                      $24.14
+    Assets:Checking
+
+2010/11/22 * Taco Del Mar
+    Expenses:Food:Lunch                       $17.82
+    Assets:Checking
+
+2010/11/22 * Salary
+    Income:Salary                          $-2708.33
+    Assets:401K                              $135.00
+    Assets:Savings                           $135.00
+    Expenses:Taxes:State                     $262.25
+    Expenses:Taxes:Federal                   $520.10
+    Expenses:Taxes:Social Security           $165.89
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking
+
+2010/11/23 * New Seasons
+    Expenses:Food:Groceries                   $71.15
+    Assets:Checking
+
+2010/11/23 * Mio Sushi
+    Expenses:Food:Lunch                        $7.16
+    Assets:Checking
+
+2010/11/25 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.48
+    Assets:Checking
+
+2010/11/25 * Pizza Hut
+    Expenses:Food:Dinner                      $24.28
+    Assets:Checking
+
+2010/11/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2010/11/30 * Safeway
+    Expenses:Food:Groceries                   $47.70
+    Assets:Checking
+
+2010/11/30 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.27
+    Assets:Checking
+
+2010/12/02 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.58
+    Assets:Checking
+
+2010/12/02 * Food Carts
+    Expenses:Food:Lunch                        $8.89
+    Assets:Checking
+
+2010/12/03 * Sizzle Pie
+    Expenses:Food:Lunch                       $11.56
+    Assets:Checking
+
+2010/12/07 * Fred Meyer
+    Expenses:Food:Groceries                   $33.05
+    Assets:Checking
+
+2010/12/08 * Mio Sushi
+    Expenses:Food:Lunch                        $9.41
+    Assets:Checking
+
+2010/12/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2010/12/08 * Car Payment
+    Liabilities:Loans:Car                    $351.91
+    Expenses:Interest:Car                    $115.66
+    Assets:Checking
+
+2010/12/08 * Student Loan Payment
+    Liabilities:Loans:Student                $195.46
+    Expenses:Interest:Student                 $12.48
+    Assets:Checking
+
+2010/12/09 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.54
+    Assets:Checking
+
+2010/12/09 * Panda Express
+    Expenses:Food:Lunch                       $10.08
+    Assets:Checking
+
+2010/12/10 * Tastebud
+    Expenses:Food:Dinner                      $51.36
+    Assets:Checking
+
+2010/12/13 * Mio Sushi
+    Expenses:Food:Lunch                       $14.30
+    Assets:Checking
+
+2010/12/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2010/12/14 * Fred Meyer
+    Expenses:Food:Groceries                  $110.40
+    Assets:Checking
+
+2010/12/14 * Mio Sushi
+    Expenses:Food:Lunch                        $9.57
+    Assets:Checking
+
+2010/12/15 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2010/12/16 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.64
+    Assets:Checking
+
+2010/12/16 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.19
+    Assets:Checking
+
+2010/12/16 * Pacific Power
+    Expenses:Utils:Electric                   $57.34
+    Assets:Checking
+
+2010/12/17 * Sizzle Pie
+    Expenses:Food:Lunch                        $5.76
+    Assets:Checking
+
+2010/12/18 * NW Natural
+    Expenses:Utils:Gas                        $52.75
+    Assets:Checking
+
+2010/12/20 * Sizzle Pie
+    Expenses:Food:Lunch                        $8.16
+    Assets:Checking
+
+2010/12/21 * New Seasons
+    Expenses:Food:Groceries                   $54.96
+    Assets:Checking
+
+2010/12/21 * Taco Del Mar
+    Expenses:Food:Lunch                       $14.35
+    Assets:Checking
+
+2010/12/22 * Mio Sushi
+    Expenses:Food:Lunch                       $11.36
+    Assets:Checking
+
+2010/12/23 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.73
+    Assets:Checking
+
+2010/12/23 * Mio Sushi
+    Expenses:Food:Lunch                        $6.25
+    Assets:Checking
+
+2010/12/24 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.08
+    Assets:Checking
+
+2010/12/24 * Mike's Drive In
+    Expenses:Food:Dinner                      $54.65
+    Assets:Checking
+
+2010/12/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2010/12/27 * Taco Del Mar
+    Expenses:Food:Lunch                        $5.40
+    Assets:Checking
+
+2010/12/28 * Safeway
+    Expenses:Food:Groceries                   $45.50
+    Assets:Checking
+
+2010/12/29 * Taco Del Mar
+    Expenses:Food:Lunch                       $10.74
+    Assets:Checking
+
+2010/12/30 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.45
+    Assets:Checking
+
+2010/12/31 * Food Carts
+    Expenses:Food:Lunch                        $9.81
+    Assets:Checking
+
+2011/01/01 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2011/01/03 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.04
+    Assets:Checking
+
+2011/01/04 * Fred Meyer
+    Expenses:Food:Groceries                  $108.01
+    Assets:Checking
+
+2011/01/04 * Food Carts
+    Expenses:Food:Lunch                       $14.86
+    Assets:Checking
+
+2011/01/06 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.41
+    Assets:Checking
+
+2011/01/07 * Panda Express
+    Expenses:Food:Lunch                       $15.83
+    Assets:Checking
+
+2011/01/07 * Mio Sushi
+    Expenses:Food:Dinner                      $21.87
+    Assets:Checking
+
+2011/01/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2011/01/08 * Car Payment
+    Liabilities:Loans:Car                    $357.84
+    Expenses:Interest:Car                    $115.98
+    Assets:Checking
+
+2011/01/08 * Student Loan Payment
+    Liabilities:Loans:Student                $189.65
+    Expenses:Interest:Student                 $13.22
+    Assets:Checking
+
+2011/01/10 * Sizzle Pie
+    Expenses:Food:Lunch                       $13.92
+    Assets:Checking
+
+2011/01/11 * New Seasons
+    Expenses:Food:Groceries                   $44.67
+    Assets:Checking
+
+2011/01/13 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.26
+    Assets:Checking
+
+2011/01/13 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.71
+    Assets:Checking
+
+2011/01/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2011/01/15 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2011/01/16 * Pacific Power
+    Expenses:Utils:Electric                   $54.46
+    Assets:Checking
+
+2011/01/18 * Fred Meyer
+    Expenses:Food:Groceries                   $33.35
+    Assets:Checking
+
+2011/01/18 * Panda Express
+    Expenses:Food:Lunch                        $9.84
+    Assets:Checking
+
+2011/01/18 * NW Natural
+    Expenses:Utils:Gas                        $53.65
+    Assets:Checking
+
+2011/01/19 * Food Carts
+    Expenses:Food:Lunch                       $14.25
+    Assets:Checking
+
+2011/01/20 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.58
+    Assets:Checking
+
+2011/01/21 * Food Carts
+    Expenses:Food:Lunch                       $12.23
+    Assets:Checking
+
+2011/01/25 * New Seasons
+    Expenses:Food:Groceries                   $42.86
+    Assets:Checking
+
+2011/01/25 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.44
+    Assets:Checking
+
+2011/01/26 * Sizzle Pie
+    Expenses:Food:Lunch                       $16.23
+    Assets:Checking
+
+2011/01/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2011/01/27 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.71
+    Assets:Checking
+
+2011/01/27 * Mio Sushi
+    Expenses:Food:Lunch                        $6.50
+    Assets:Checking
+
+2011/01/29 * Apizza Scholls
+    Expenses:Food:Dinner                      $25.00
+    Assets:Checking
+
+2011/01/31 * Mio Sushi
+    Expenses:Food:Lunch                        $6.83
+    Assets:Checking
+
+2011/02/01 * Safeway
+    Expenses:Food:Groceries                   $57.82
+    Assets:Checking
+
+2011/02/01 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2011/02/02 * Food Carts
+    Expenses:Food:Lunch                        $8.04
+    Assets:Checking
+
+2011/02/03 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.70
+    Assets:Checking
+
+2011/02/03 * Mio Sushi
+    Expenses:Food:Lunch                       $10.42
+    Assets:Checking
+
+2011/02/07 * Mio Sushi
+    Expenses:Food:Lunch                        $6.47
+    Assets:Checking
+
+2011/02/08 * New Seasons
+    Expenses:Food:Groceries                   $81.11
+    Assets:Checking
+
+2011/02/08 * Food Carts
+    Expenses:Food:Lunch                       $12.28
+    Assets:Checking
+
+2011/02/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2011/02/08 * Car Payment
+    Liabilities:Loans:Car                    $355.41
+    Expenses:Interest:Car                    $119.10
+    Assets:Checking
+
+2011/02/08 * Student Loan Payment
+    Liabilities:Loans:Student                $196.23
+    Expenses:Interest:Student                 $13.03
+    Assets:Checking
+
+2011/02/10 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.62
+    Assets:Checking
+
+2011/02/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2011/02/14 * Sizzle Pie
+    Expenses:Food:Lunch                        $9.78
+    Assets:Checking
+
+2011/02/15 * Safeway
+    Expenses:Food:Groceries                   $82.91
+    Assets:Checking
+
+2011/02/15 * Food Carts
+    Expenses:Food:Lunch                       $10.98
+    Assets:Checking
+
+2011/02/15 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2011/02/16 * Food Carts
+    Expenses:Food:Lunch                       $12.32
+    Assets:Checking
+
+2011/02/16 * Pacific Power
+    Expenses:Utils:Electric                   $54.94
+    Assets:Checking
+
+2011/02/17 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.73
+    Assets:Checking
+
+2011/02/18 * NW Natural
+    Expenses:Utils:Gas                        $52.48
+    Assets:Checking
+
+2011/02/18 * McMennemin's
+    Expenses:Food:Dinner                      $26.74
+    Assets:Checking
+
+2011/02/22 * Fred Meyer
+    Expenses:Food:Groceries                   $71.73
+    Assets:Checking
+
+2011/02/22 * Sizzle Pie
+    Expenses:Food:Lunch                       $18.55
+    Assets:Checking
+
+2011/02/23 * Sizzle Pie
+    Expenses:Food:Lunch                       $14.59
+    Assets:Checking
+
+2011/02/24 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.78
+    Assets:Checking
+
+2011/02/24 * Eddie's Flat Iron Pizza
+    Expenses:Food:Dinner                      $22.67
+    Assets:Checking
+
+2011/02/25 * Sizzle Pie
+    Expenses:Food:Lunch                       $14.06
+    Assets:Checking
+
+2011/02/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2011/02/28 * Sizzle Pie
+    Expenses:Food:Lunch                       $11.56
+    Assets:Checking
+
+2011/03/01 * Safeway
+    Expenses:Food:Groceries                   $56.14
+    Assets:Checking
+
+2011/03/01 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2011/03/02 * Taco Del Mar
+    Expenses:Food:Lunch                       $11.11
+    Assets:Checking
+
+2011/03/03 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.66
+    Assets:Checking
+
+2011/03/03 * Panda Express
+    Expenses:Food:Lunch                       $14.62
+    Assets:Checking
+
+2011/03/04 * Mio Sushi
+    Expenses:Food:Lunch                       $12.81
+    Assets:Checking
+
+2011/03/05 * Old Town Pizza
+    Expenses:Food:Dinner                      $30.38
+    Assets:Checking
+
+2011/03/08 * Safeway
+    Expenses:Food:Groceries                   $72.61
+    Assets:Checking
+
+2011/03/08 * Mio Sushi
+    Expenses:Food:Lunch                       $14.65
+    Assets:Checking
+
+2011/03/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2011/03/08 * Car Payment
+    Liabilities:Loans:Car                    $357.77
+    Expenses:Interest:Car                    $103.29
+    Assets:Checking
+
+2011/03/08 * Student Loan Payment
+    Liabilities:Loans:Student                $181.29
+    Expenses:Interest:Student                 $11.45
+    Assets:Checking
+
+2011/03/10 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.31
+    Assets:Checking
+
+2011/03/10 * Food Carts
+    Expenses:Food:Lunch                        $8.58
+    Assets:Checking
+
+2011/03/11 * Panda Express
+    Expenses:Food:Lunch                        $6.02
+    Assets:Checking
+
+2011/03/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2011/03/13 * Eddie's Flat Iron Pizza
+    Expenses:Food:Dinner                      $22.81
+    Assets:Checking
+
+2011/03/15 * Safeway
+    Expenses:Food:Groceries                   $53.66
+    Assets:Checking
+
+2011/03/15 * Taco Del Mar
+    Expenses:Food:Lunch                       $13.09
+    Assets:Checking
+
+2011/03/15 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2011/03/16 * Panda Express
+    Expenses:Food:Lunch                        $7.65
+    Assets:Checking
+
+2011/03/16 * Pacific Power
+    Expenses:Utils:Electric                   $57.18
+    Assets:Checking
+
+2011/03/17 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.62
+    Assets:Checking
+
+2011/03/17 * Papa John's
+    Expenses:Food:Dinner                      $23.70
+    Assets:Checking
+
+2011/03/18 * NW Natural
+    Expenses:Utils:Gas                        $55.58
+    Assets:Checking
+
+2011/03/18 * Tastebud
+    Expenses:Food:Dinner                      $20.74
+    Assets:Checking
+
+2011/03/19 * Old Town Pizza
+    Expenses:Food:Dinner                      $37.18
+    Assets:Checking
+
+2011/03/22 * Safeway
+    Expenses:Food:Groceries                   $46.83
+    Assets:Checking
+
+2011/03/23 * Panda Express
+    Expenses:Food:Lunch                        $6.94
+    Assets:Checking
+
+2011/03/24 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.53
+    Assets:Checking
+
+2011/03/24 * Sizzle Pie
+    Expenses:Food:Lunch                        $6.86
+    Assets:Checking
+
+2011/03/25 * Taco Del Mar
+    Expenses:Food:Lunch                       $15.07
+    Assets:Checking
+
+2011/03/25 * Old Town Pizza
+    Expenses:Food:Dinner                      $44.95
+    Assets:Checking
+
+2011/03/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2011/03/28 * Sizzle Pie
+    Expenses:Food:Lunch                       $10.56
+    Assets:Checking
+
+2011/03/29 * Safeway
+    Expenses:Food:Groceries                   $72.14
+    Assets:Checking
+
+2011/03/29 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.45
+    Assets:Checking
+
+2011/03/31 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.44
+    Assets:Checking
+
+2011/03/31 * Mio Sushi
+    Expenses:Food:Lunch                        $5.89
+    Assets:Checking
+
+2011/03/31 * Pizza Hut
+    Expenses:Food:Dinner                      $23.87
+    Assets:Checking
+
+2011/04/01 * Food Carts
+    Expenses:Food:Lunch                        $6.37
+    Assets:Checking
+
+2011/04/01 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2011/04/02 * Pambiche
+    Expenses:Food:Dinner                      $49.77
+    Assets:Checking
+
+2011/04/04 * Mio Sushi
+    Expenses:Food:Lunch                       $13.54
+    Assets:Checking
+
+2011/04/05 * New Seasons
+    Expenses:Food:Groceries                   $39.65
+    Assets:Checking
+
+2011/04/05 * Food Carts
+    Expenses:Food:Lunch                        $5.52
+    Assets:Checking
+
+2011/04/07 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.38
+    Assets:Checking
+
+2011/04/07 * Food Carts
+    Expenses:Food:Lunch                        $7.68
+    Assets:Checking
+
+2011/04/08 * Mio Sushi
+    Expenses:Food:Lunch                        $9.50
+    Assets:Checking
+
+2011/04/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2011/04/08 * Car Payment
+    Liabilities:Loans:Car                    $359.73
+    Expenses:Interest:Car                    $114.63
+    Assets:Checking
+
+2011/04/08 * Student Loan Payment
+    Liabilities:Loans:Student                $190.75
+    Expenses:Interest:Student                 $12.38
+    Assets:Checking
+
+2011/04/11 * Taco Del Mar
+    Expenses:Food:Lunch                       $13.84
+    Assets:Checking
+
+2011/04/12 * Fred Meyer
+    Expenses:Food:Groceries                   $46.97
+    Assets:Checking
+
+2011/04/12 * Panda Express
+    Expenses:Food:Lunch                       $14.82
+    Assets:Checking
+
+2011/04/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2011/04/14 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.52
+    Assets:Checking
+
+2011/04/14 * Panda Express
+    Expenses:Food:Lunch                        $7.61
+    Assets:Checking
+
+2011/04/15 * Sizzle Pie
+    Expenses:Food:Lunch                       $10.71
+    Assets:Checking
+
+2011/04/15 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2011/04/16 * Pacific Power
+    Expenses:Utils:Electric                   $56.96
+    Assets:Checking
+
+2011/04/18 * NW Natural
+    Expenses:Utils:Gas                        $56.09
+    Assets:Checking
+
+2011/04/19 * Fred Meyer
+    Expenses:Food:Groceries                   $72.15
+    Assets:Checking
+
+2011/04/21 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.49
+    Assets:Checking
+
+2011/04/23 * Papa Hayden
+    Expenses:Food:Dinner                      $50.00
+    Assets:Checking
+
+2011/04/26 * Fred Meyer
+    Expenses:Food:Groceries                   $25.90
+    Assets:Checking
+
+2011/04/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2011/04/27 * Mio Sushi
+    Expenses:Food:Lunch                        $8.86
+    Assets:Checking
+
+2011/04/28 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.41
+    Assets:Checking
+
+2011/04/28 * Eddie's Flat Iron Pizza
+    Expenses:Food:Dinner                      $24.28
+    Assets:Checking
+
+2011/05/01 * Papa John's
+    Expenses:Food:Dinner                      $21.34
+    Assets:Checking
+
+2011/05/01 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2011/05/02 * Panda Express
+    Expenses:Food:Lunch                        $7.88
+    Assets:Checking
+
+2011/05/03 * New Seasons
+    Expenses:Food:Groceries                   $54.94
+    Assets:Checking
+
+2011/05/03 * Taco Del Mar
+    Expenses:Food:Lunch                        $7.36
+    Assets:Checking
+
+2011/05/04 * Mio Sushi
+    Expenses:Food:Lunch                       $13.38
+    Assets:Checking
+
+2011/05/05 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.45
+    Assets:Checking
+
+2011/05/06 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.05
+    Assets:Checking
+
+2011/05/06 * Old Town Pizza
+    Expenses:Food:Dinner                      $49.45
+    Assets:Checking
+
+2011/05/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2011/05/08 * Car Payment
+    Liabilities:Loans:Car                    $356.60
+    Expenses:Interest:Car                    $119.25
+    Assets:Checking
+
+2011/05/08 * Student Loan Payment
+    Liabilities:Loans:Student                $190.08
+    Expenses:Interest:Student                 $12.99
+    Assets:Checking
+
+2011/05/09 * Sizzle Pie
+    Expenses:Food:Lunch                       $11.91
+    Assets:Checking
+
+2011/05/10 * New Seasons
+    Expenses:Food:Groceries                  $105.77
+    Assets:Checking
+
+2011/05/11 * Food Carts
+    Expenses:Food:Lunch                        $5.83
+    Assets:Checking
+
+2011/05/12 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.49
+    Assets:Checking
+
+2011/05/12 * Panda Express
+    Expenses:Food:Lunch                       $13.87
+    Assets:Checking
+
+2011/05/13 * Taco Del Mar
+    Expenses:Food:Lunch                        $8.16
+    Assets:Checking
+
+2011/05/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2011/05/13 * Mio Sushi
+    Expenses:Food:Dinner                      $40.15
+    Assets:Checking
+
+2011/05/14 * Mike's Drive In
+    Expenses:Food:Dinner                      $30.26
+    Assets:Checking
+
+2011/05/15 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2011/05/16 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.10
+    Assets:Checking
+
+2011/05/16 * Pacific Power
+    Expenses:Utils:Electric                   $56.68
+    Assets:Checking
+
+2011/05/17 * Fred Meyer
+    Expenses:Food:Groceries                   $88.69
+    Assets:Checking
+
+2011/05/17 * Panda Express
+    Expenses:Food:Lunch                        $6.63
+    Assets:Checking
+
+2011/05/18 * NW Natural
+    Expenses:Utils:Gas                        $54.74
+    Assets:Checking
+
+2011/05/19 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.39
+    Assets:Checking
+
+2011/05/19 * Taco Del Mar
+    Expenses:Food:Lunch                       $12.32
+    Assets:Checking
+
+2011/05/23 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.56
+    Assets:Checking
+
+2011/05/24 * Fred Meyer
+    Expenses:Food:Groceries                   $62.31
+    Assets:Checking
+
+2011/05/25 * Panda Express
+    Expenses:Food:Lunch                        $9.14
+    Assets:Checking
+
+2011/05/26 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.58
+    Assets:Checking
+
+2011/05/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2011/05/31 * New Seasons
+    Expenses:Food:Groceries                   $39.77
+    Assets:Checking
+
+2011/06/01 * Food Carts
+    Expenses:Food:Lunch                       $11.04
+    Assets:Checking
+
+2011/06/01 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2011/06/02 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.57
+    Assets:Checking
+
+2011/06/02 * Food Carts
+    Expenses:Food:Lunch                       $15.48
+    Assets:Checking
+
+2011/06/03 * Mio Sushi
+    Expenses:Food:Lunch                       $13.03
+    Assets:Checking
+
+2011/06/04 * Papa Hayden
+    Expenses:Food:Dinner                      $54.77
+    Assets:Checking
+
+2011/06/07 * New Seasons
+    Expenses:Food:Groceries                   $56.25
+    Assets:Checking
+
+2011/06/08 * Netflix
+    Expenses:Entertainment                     $9.99
+    Assets:Checking
+
+2011/06/08 * Car Payment
+    Liabilities:Loans:Car                    $353.70
+    Expenses:Interest:Car                    $108.09
+    Assets:Checking
+
+2011/06/08 * Student Loan Payment
+    Liabilities:Loans:Student                $188.98
+    Expenses:Interest:Student                 $12.68
+    Assets:Checking
+
+2011/06/09 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.59
+    Assets:Checking
+
+2011/06/10 * Sizzle Pie
+    Expenses:Food:Lunch                        $7.71
+    Assets:Checking
+
+2011/06/12 * Papa John's
+    Expenses:Food:Dinner                      $23.02
+    Assets:Checking
+
+2011/06/13 * Panda Express
+    Expenses:Food:Lunch                        $6.53
+    Assets:Checking
+
+2011/06/13 * Progressive
+    Expenses:Insurance:Car                    $94.00
+    Assets:Checking
+
+2011/06/14 * New Seasons
+    Expenses:Food:Groceries                   $59.53
+    Assets:Checking
+
+2011/06/15 * Taco Del Mar
+    Expenses:Food:Lunch                        $9.49
+    Assets:Checking
+
+2011/06/15 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2011/06/16 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.60
+    Assets:Checking
+
+2011/06/16 * Pacific Power
+    Expenses:Utils:Electric                   $55.62
+    Assets:Checking
+
+2011/06/18 * NW Natural
+    Expenses:Utils:Gas                        $54.00
+    Assets:Checking
+
+2011/06/20 * Taco Del Mar
+    Expenses:Food:Lunch                       $10.29
+    Assets:Checking
+
+2011/06/21 * Safeway
+    Expenses:Food:Groceries                   $86.36
+    Assets:Checking
+
+2011/06/23 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.76
+    Assets:Checking
+
+2011/06/24 * McMennemin's
+    Expenses:Food:Dinner                      $25.15
+    Assets:Checking
+
+2011/06/26 * Rent
+    Expenses:Rent                            $800.00
+    Assets:Checking
+
+2011/06/27 * Food Carts
+    Expenses:Food:Lunch                        $6.91
+    Assets:Checking
+
+2011/06/28 * New Seasons
+    Expenses:Food:Groceries                  $112.66
+    Assets:Checking
+
+2011/06/28 * Panda Express
+    Expenses:Food:Lunch                       $13.65
+    Assets:Checking
+
+2011/06/29 * Sizzle Pie
+    Expenses:Food:Lunch                        $6.24
+    Assets:Checking
+
+2011/06/30 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.63
+    Assets:Checking
+
+2011/07/01 * Taco Del Mar
+    Expenses:Food:Lunch                       $14.68
+    Assets:Checking
+
+2011/07/01 * Salary
+    Income:Salary                          $-3125.00
+    Assets:401K                              $156.00
+    Assets:Savings                           $156.00
+    Expenses:Taxes:State                     $302.64
+    Expenses:Taxes:Federal                   $550.00
+    Expenses:Taxes:Social Security           $191.44
+    Expenses:Insurance:Medical                $55.00
+    Assets:Checking                         $1713.92
+
+2011/07/04 * Panda Express
+    Expenses:Food:Lunch                        $7.35
+    Assets:Checking
+
+2011/07/05 * Fred Meyer
+    Expenses:Food:Groceries                   $96.30
+    Assets:Checking
+
+2011/07/05 * Taco Del Mar
+    Expenses:Food:Lunch                        $6.61
+    Assets:Checking
+
+2011/07/06 * Food Carts
+    Expenses:Food:Lunch                        $5.79
+    Assets:Checking
+
+2011/07/07 * Kettleman Bagels
+    Expenses:Food:Breakfast                    $7.47
+    Assets:Checking
