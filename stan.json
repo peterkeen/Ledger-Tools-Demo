@@ -59,6 +59,15 @@
         ]
     },
     {
+        "payee": ["Rontoms", "Roscoe's", "Bye and Bye", "Tennessee Red's", "East Burn", "Bridgeport", "Burnside Brewery"],
+        "dow": [0,1,2,3,4,5,6],
+        "probability": 0.3,
+        "postings": [
+            ["Expenses:Entertainment", [4,25,10]],
+            ["Assets:Checking"]
+        ]
+    },
+    {
         "payee": "Progressive",
         "day": 13,
         "postings": [
