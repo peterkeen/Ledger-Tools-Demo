@@ -41,8 +41,9 @@ def render_query(id, columns, query, binds, classes=[]):
     res = run_query(query, binds)
     return render_table(id, columns, res, classes=classes)
 
+db_connect_string = ""
 def run_query(query, binds):
-    con = psycopg2.connect("dbname=peter")
+    con = psycopg2.connect(db_connect_string)
     cur = con.cursor()
     cur.execute(query, binds)
     return cur
@@ -171,7 +172,10 @@ parser = argparse.ArgumentParser(description="Run monthly reports")
 parser.add_argument('--month', type=str, help="Month to run for", default=datetime.now().strftime('%Y-%m-01'))
 parser.add_argument('--open', type=bool, help="Open the report in the browser", default=False)
 parser.add_argument('--path', type=str,  help="Where to put the generated files", default=".")
+parser.add_argument('--db', type=str,    help="Database connection string", default="")
 args = parser.parse_args()
+
+db_connect_string = args.db
 
 income_statement = render_query('income', [
         "Account",

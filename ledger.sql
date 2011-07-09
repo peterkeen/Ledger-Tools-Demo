@@ -1,4 +1,4 @@
-drop table aggregated_accounts;
+drop table if exists aggregated_accounts;
 create table aggregated_accounts as
 SELECT
     xtn_date,
@@ -27,13 +27,13 @@ create index idx_aggregated_accounts_pay_period on aggregated_accounts (pay_peri
 
 analyze aggregated_accounts;
 
-delete from aggregated_accounts_by_month;
-insert into aggregated_accounts_by_month
+drop table if exists aggregated_accounts_by_month;
+create table aggregated_accounts_by_month as
 select 
     xtn_month,
     account,
     commodity,
-    sum(amount)
+    sum(amount) as amount
 from
     aggregated_accounts
 group by
@@ -41,8 +41,11 @@ group by
     account,
     commodity
 ;
+CREATE INDEX idx_aggregated_accounts_by_month_account ON aggregated_accounts_by_month USING btree (account);
+CREATE INDEX idx_aggregated_accounts_by_month_month ON aggregated_accounts_by_month USING btree (xtn_month);
 
 analyze aggregated_accounts_by_month;
+
 
 create or replace function this_month() returns date as $$
     select date_trunc('month', now())::date        
